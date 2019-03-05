@@ -9,9 +9,6 @@ if __name__ == "__main__":
     print("Connect to sqlite3")
 
 
-    def __init__(self, conn, cursor):
-        self.conn = conn
-        self.cursor = cursor
 
     # create students table
     cursor.execute("CREATE TABLE IF NOT EXISTS Students ("
@@ -32,6 +29,7 @@ if __name__ == "__main__":
           "4. Delete Student\n"
           "5. Search Student\n"
           "6. Quit")
+
     while True:
         try:
             option = int(input("Enter Option: \n"))
@@ -42,7 +40,12 @@ if __name__ == "__main__":
             print("Invalid Input!")
 
     while True:
-        if option == 2:
+        if option == 1:
+            cursor.execute("SELECT * FROM Students")
+            stu_collection = cursor.fetchall()
+            print(stu_collection)
+            break;
+        elif option == 2:
             print()
             # Loop until user confirms correct data
             isCorrect = False
@@ -74,10 +77,58 @@ if __name__ == "__main__":
             # Write to database
             student = Student(FirstName, LastName, GPA, Major, FacultyAdvisor)
             cursor.execute("INSERT INTO Students(FirstName, LastName, GPA, Major, FacultyAdvisor) "
-                                "VALUES(?,?,?,?,?);", student.getVals())
+                                "VALUES(?,?,?,?,?)", student.getVals())
             conn.commit()
             print("Student entered successfully!")
+            break;
+        elif option == 4:
+            print()
+            # Loop until user confirms correct data
+            isCorrect = False
+            while not isCorrect:
+                deleteId = input("Enter ID number of student to delete: \n")
+                print("Delete Student ID: \n" , deleteId)
 
+                while True:
+                    valid = input("Are these values correct? ('Y' / 'N') ")
+                    if valid.upper() == "Y":
+                        isCorrect = True
+                        break
+                    elif valid.upper() == "N":
+                        print()
+                        print("Please reenter values!")
+                        break
+                    else:
+                        print("Invalid option!")
+                break;
+
+            cursor.execute("DELETE FROM Students WHERE StudentId = ?", (deleteId,))
+            conn.commit()
+            break;
+        # option 5
+        elif option == 5:
+            searchId = input("Enter ID number of student to search: \n")
+            print("Delete Student ID: \n", searchId)
+
+            while True:
+                valid = input("Are these values correct? ('Y' / 'N') ")
+                if valid.upper() == "Y":
+                    isCorrect = True
+                    break
+                elif valid.upper() == "N":
+                    print()
+                    print("Please reenter values!")
+                    break
+                else:
+                    print("Invalid option!")
+                break;
+            cursor.execute("SELECT * FROM Students WHERE StudentId = ?", (searchId,))
+            conn.commit()
+            break;
+
+        # option 6
+        elif option == 6:
+            break;
 
 
 
