@@ -1,31 +1,31 @@
 class Student:
 
-    def __init__(FirstName, LastName, GPA, Major, FacultyAdvisor):
-        FirstName = str(FirstName)
-        LastName = str(LastName)
-        GPA = float(GPA)
-        Major = str(Major)
-        FacultyAdvisor = str(FacultyAdvisor)
+    def __init__(self,FirstName, LastName, GPA, Major, FacultyAdvisor):
+        self.FirstName = str(FirstName)
+        self.LastName = str(LastName)
+        self.GPA = float(GPA)
+        self.Major = str(Major)
+        self.FacultyAdvisor = str(FacultyAdvisor)
 
     ### Accessors
 
-    def getVals():
-        return FirstName, LastName, GPA, Major, FacultyAdvisor
+    def getVals(self):
+        return (self.FirstName, self.LastName, self.GPA, self.Major, self.FacultyAdvisor,)
 
-    def getFirstName():
-        return FirstName
+    def getFirstName(self):
+        return self.FirstName
 
     def getLastName(self):
-        return LastName
+        return self.LastName
 
-    def getGPA():
-        return GPA
+    def getGPA(self):
+        return self.GPA
 
-    def getMajor():
-        return Major
+    def getMajor(self):
+        return self.Major
 
-    def getFacultyAdvisor():
-        return FacultyAdvisor
+    def getFacultyAdvisor(self):
+        return self.FacultyAdvisor
 
     ### Mutators
 
