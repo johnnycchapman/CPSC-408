@@ -5,7 +5,7 @@
 * Class: CPSC 408 
 * Teacher: Rene
 
-##Generate Fake Data and Print to Database:
+## Generate Fake Data and Print to Database:
 1) Run the Faker.py file to generate fake data to test.csv
 2) Use this file to write to the database
 3) Go to DataGrip and run the DDLStatements
