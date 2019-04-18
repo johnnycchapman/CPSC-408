@@ -10,3 +10,5 @@
 2) Use this file to write to the database
 3) Go to DataGrip and run the DDLStatements
 4) Run the java Main file to output to the database
+
+* Make sure mysql-connector-java-5.1.47.jar is downloaded into library
