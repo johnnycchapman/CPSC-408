@@ -1,0 +1,501 @@
+bar_id,first_name,phone_number,email,address,city,state,zip_code,has_dj,has_food,has_outdoor_area,has_beer_on_tap,overall_rating,food_rating,beer_rating,cocktail_rating
+1,Michael's Bar,231.548.0391,lauren30@yahoo.com,59393 Rocha Orchard Apt. 878,Michaelland,New Hampshire,32286,0,0,0,1,5,2,3,2
+2,James's Bar,(777)812-4209,antonio46@velasquez.info,74857 Jessica Trafficway Suite 395,New Russellville,Alaska,47202,1,1,1,0,3,1,4,2
+3,William's Bar,594.990.9100x459,deborahvega@long.com,166 Tamara Bridge Suite 187,Tonyamouth,Rhode Island,78612,0,0,0,0,2,5,1,4
+4,Christine's Bar,814.974.9122x7684,darlenedavis@barr.com,240 Karen Ridges Apt. 037,Grahamview,Massachusetts,23397,0,1,0,0,4,5,1,5
+5,Ronald's Bar,001-832-160-1911x239,vwashington@moreno.com,2611 Campbell Ramp,Port Jeffrey,Massachusetts,24872,0,0,0,1,5,1,5,3
+6,Keith's Bar,(793)490-3965x87199,chloe74@crawford.biz,823 John Rest,Carpenterfort,Illinois,47181,0,0,1,0,5,3,4,4
+7,Melissa's Bar,+1-785-888-6451x797,vshelton@yahoo.com,083 Smith Trafficway Suite 588,Lake Stevenland,Iowa,65577,1,1,0,0,4,2,4,4
+8,Amanda's Bar,925.873.7485x7505,baileylauren@yahoo.com,43793 Cooper Brook,Nathanshire,Georgia,37148,0,0,0,1,4,3,5,1
+9,Eric's Bar,551.906.8624x757,williamsonshelley@singh.com,230 John Spurs,Brianville,Tennessee,34433,1,1,0,1,4,5,5,2
+10,Joseph's Bar,(781)706-2653x15873,lyonswilliam@young-fox.biz,3623 Knapp Park Apt. 382,Martinburgh,Indiana,58738,0,1,0,0,5,1,1,5
+11,Daniel's Bar,3926039075,sara36@smith.biz,05533 Mathews Squares Apt. 260,Port Amyland,Ohio,38432,0,1,0,1,2,4,1,1
+12,Jennifer's Bar,3180801912,james85@yahoo.com,15036 Collins Cape,Matthewhaven,Utah,60849,0,0,0,0,4,2,4,4
+13,Kaylee's Bar,005.092.0035x1189,dwright@lynch-gilbert.com,985 Barry Glens,South Charles,Oregon,43199,1,1,0,0,5,5,1,3
+14,Ashley's Bar,629-019-6235,douglas59@gmail.com,0799 Phillips Cliff,Dawnfort,Hawaii,92554,0,0,0,1,2,1,2,1
+15,Charles's Bar,(935)983-1801x04595,kharrington@yahoo.com,814 Coleman Manor,West Jason,Louisiana,68058,0,1,0,1,5,1,1,1
+16,Dale's Bar,260.169.7189,willie73@gmail.com,3678 Anderson Square Apt. 087,West Katrinaburgh,Michigan,20920,0,0,0,1,3,4,4,2
+17,Derek's Bar,788.599.2593,garnertheresa@gmail.com,67632 Dawson Underpass Apt. 503,North Dorothychester,West Virginia,40536,1,1,1,1,5,4,4,5
+18,Alexis's Bar,001-506-005-7444x229,julieharrison@mayer-ramirez.org,56275 Acevedo Villages Suite 675,Camposborough,Washington,33159,1,1,0,0,1,1,5,5
+19,Bethany's Bar,8207962376,harpersarah@barnes-hansen.com,8838 Kyle Grove,New Heather,Georgia,41039,0,0,0,0,2,1,4,5
+20,Annette's Bar,001-793-277-8355x87609,sarajohnston@gmail.com,7077 Stephanie Lights Apt. 341,Nelsonborough,Louisiana,40501,0,1,0,0,2,2,5,2
+21,Heather's Bar,(529)845-6847x1799,robert62@yahoo.com,593 Smith Burgs,Andrewton,Ohio,77184,0,0,0,0,4,2,2,5
+22,Edgar's Bar,823-176-0793x113,timothy26@johnson.com,81624 Williams Vista Apt. 256,North Latoyaport,South Carolina,53931,1,1,1,0,2,2,1,5
+23,William's Bar,353-554-1146x6098,teresa00@curry.net,861 Li Mall Suite 698,New Christophermouth,North Carolina,95126,0,0,1,0,5,2,1,2
+24,Donald's Bar,(646)655-2652,rachelchavez@smith.org,602 Huff Mews,Hallport,Maine,65714,1,0,0,1,4,4,1,3
+25,Rachel's Bar,001-483-617-2090x058,stephaniegray@hayden.info,3852 Martinez River,North Donald,South Carolina,49703,0,0,0,1,2,2,3,4
+26,Becky's Bar,365.735.6628x19925,kingkimberly@yahoo.com,9203 Wright Oval Suite 905,North Ricardo,Pennsylvania,79558,0,0,1,0,3,4,1,5
+27,Heather's Bar,291.208.6642,cruzmichael@yahoo.com,6429 Blackwell Circle Apt. 894,Morenoland,Texas,77791,0,1,0,0,5,4,5,3
+28,Kara's Bar,001-414-824-7404,aliciasanders@wright-hood.com,222 Jessica Ridges,South Stephanie,New York,4537,0,1,1,0,3,2,1,1
+29,Dean's Bar,317.676.5320x40496,chart@hotmail.com,60650 Rita River Apt. 751,New David,Delaware,62289,1,1,0,0,1,1,2,1
+30,John's Bar,+1-718-286-6941x179,mcfarlandjames@yahoo.com,222 Long Rue,Port Beth,West Virginia,70053,0,0,1,1,3,3,1,2
+31,Jerry's Bar,+1-228-712-5401x327,kiddgeorge@mejia.com,3779 Meza Tunnel Suite 422,Reedport,New Hampshire,78510,0,0,0,1,4,3,2,3
+32,Charles's Bar,001-270-207-5569x0518,icohen@rodriguez.info,49648 Soto Meadow,Lindseyhaven,Ohio,89787,1,0,1,1,2,3,4,3
+33,James's Bar,840-534-4591x33811,adam12@jones.com,504 Gregory Bridge Apt. 344,Evanburgh,Texas,89228,1,0,1,0,1,1,1,5
+34,Kayla's Bar,(468)143-8223x26359,megansmith@hotmail.com,20350 Bishop Tunnel,North Molly,Wisconsin,20872,1,0,0,1,5,5,4,4
+35,Eric's Bar,869-691-5347x9524,thomasflores@hotmail.com,6722 Pena Forges,Robertville,Iowa,22178,0,1,1,0,2,1,3,1
+36,Jessica's Bar,+1-574-840-7318x9932,david69@gmail.com,75503 Lane Island Suite 622,Lake Tinahaven,New Mexico,50917,0,1,1,1,4,3,5,3
+37,Zachary's Bar,001-738-225-5507x63833,sara14@yahoo.com,1683 Brittany Dam Apt. 702,Amandaburgh,Missouri,57715,1,1,0,0,5,5,1,1
+38,Linda's Bar,+1-403-154-3526x1265,molinasteven@gmail.com,97250 Williams Valley Suite 309,Sparksside,Oregon,69564,1,1,1,1,2,3,2,1
+39,Richard's Bar,5602466543,jennifer97@hill.com,9759 Alicia Loop Apt. 582,Blackton,North Dakota,55641,0,1,1,0,2,4,3,5
+40,Jeffrey's Bar,755-303-3010x93292,fordmarcus@hill.com,7837 Sarah Center Suite 170,South Kathleenhaven,Hawaii,32773,0,1,1,1,4,3,4,2
+41,Michele's Bar,553.180.8193x81279,yadams@gmail.com,96529 Yvonne Radial,Glassstad,Maine,69538,1,0,0,1,4,1,3,2
+42,Jennifer's Bar,609.962.6299,stephensonjade@yahoo.com,8880 Tracy Burgs Apt. 015,East Jenniferchester,Vermont,91559,1,0,1,0,1,5,1,3
+43,Christopher's Bar,(605)206-6948,bradthomas@gray.com,73748 Amanda Glens,Martinezshire,Tennessee,98151,0,0,1,1,1,3,3,3
+44,James's Bar,624-944-6503x56104,ashleypark@kennedy-snyder.com,40644 Freeman Stravenue,Kimberlyborough,Virginia,31439,1,0,1,1,1,3,4,4
+45,Donald's Bar,+1-043-424-0077x86356,brian02@stafford-nichols.info,9808 Smith Ferry,South Phyllis,Oregon,56900,0,0,0,1,2,3,1,3
+46,Clinton's Bar,+1-138-416-5545,katie92@yahoo.com,2431 James Ville,Lawrencefurt,Georgia,73201,1,0,1,0,2,3,3,1
+47,Kayla's Bar,165.467.8922x2759,foxmichael@gmail.com,5510 Rosales Keys Apt. 948,Jessicahaven,Pennsylvania,12505,0,1,0,1,5,4,4,4
+48,Shannon's Bar,784-346-2691x88165,yowens@daniel-lee.biz,49002 Kimberly Mills Suite 944,Christinastad,Indiana,39407,1,1,0,0,2,5,2,1
+49,John's Bar,(971)880-6266,fclark@adams.net,97791 Benson Branch Suite 486,North Jose,North Carolina,61272,1,0,1,0,2,3,4,3
+50,Jeremiah's Bar,783-237-9650,linda03@gmail.com,39889 Frank Fork,North Stephen,New Jersey,93485,0,1,1,1,2,4,4,1
+51,Joshua's Bar,952.164.0453x084,jon95@hotmail.com,46113 Alvarado Common,Amyfurt,Missouri,24246,0,1,1,0,3,2,3,5
+52,Joshua's Bar,+1-273-190-0562x119,qkennedy@gmail.com,5923 Mason Mission,New Richardmouth,Florida,4899,1,0,1,0,3,1,2,4
+53,Madison's Bar,460.879.7043x316,turnerfelicia@ferguson.com,97201 Lopez Flat,Holtfurt,New York,35772,1,1,0,0,3,5,5,5
+54,Melanie's Bar,625.174.2765,catherine32@hotmail.com,853 Amanda Glens,Cherylstad,West Virginia,17424,0,1,0,0,2,5,3,4
+55,Justin's Bar,(624)561-4298x6752,grantjames@gonzales.com,0943 John Burg,Gonzalezchester,Indiana,12122,1,0,1,0,2,3,3,1
+56,Kerri's Bar,001-968-314-7532x461,samuel33@hotmail.com,0318 Flores Streets Apt. 058,Williamsmouth,New York,2106,0,1,0,0,1,3,4,5
+57,Nicole's Bar,+1-948-303-2545x7470,robinsonteresa@gmail.com,04002 Stevens Lights Suite 645,Gutierrezmouth,Kansas,36932,0,0,1,0,2,3,2,3
+58,Joel's Bar,001-947-592-3469x8753,swilson@mclaughlin.com,07500 Lindsay Mountain Apt. 448,Pereztown,Delaware,87857,0,1,1,1,5,2,3,2
+59,Leslie's Bar,367.957.6807x13890,christinaprice@hotmail.com,0617 Turner Walks,New Bryanchester,Michigan,55021,0,0,1,0,1,4,2,1
+60,Krista's Bar,409-044-8399x0424,vanessa88@sparks.com,65869 Morales Ridges Suite 637,West David,Rhode Island,63930,1,1,0,1,2,1,4,5
+61,Nathan's Bar,001-242-935-9303,jose94@yahoo.com,1923 Brittany Estate Apt. 561,Mariaside,Indiana,90251,1,1,1,1,4,3,3,5
+62,Michelle's Bar,+1-789-678-2336,pellis@burns.com,356 Michelle Field Suite 929,Brianfort,Montana,39216,1,1,0,0,3,5,5,1
+63,Robert's Bar,(672)834-8443,millerkenneth@walters.com,233 Sampson Hollow Apt. 397,Hernandezside,Idaho,32829,0,1,1,0,5,1,1,2
+64,Patricia's Bar,(917)527-0328,pattonkathryn@hotmail.com,28497 Taylor Rue,Traceyburgh,Nebraska,89827,0,0,0,1,5,3,3,4
+65,James's Bar,+1-669-591-1372x191,megan47@hotmail.com,937 Daniel Tunnel,North Kellystad,Hawaii,91127,1,1,0,1,2,3,1,2
+66,Ethan's Bar,542.641.4255x144,tavila@ortiz.com,40390 Megan Meadow Apt. 289,West Robertside,New Hampshire,80729,1,0,1,1,4,3,5,5
+67,Heather's Bar,013-822-2298x2168,aaronstrickland@hotmail.com,48354 Walter Point,Hubbardburgh,Arizona,92374,0,1,1,1,2,2,3,1
+68,Tricia's Bar,395.064.1592x890,kmoore@padilla.info,470 Rivera River,Jonathanborough,Arkansas,77331,1,1,0,0,5,4,4,3
+69,Kristin's Bar,+1-987-849-8396x63469,qkent@gmail.com,989 Johnston Corner Apt. 648,Andreafurt,Massachusetts,6111,1,0,0,1,4,2,3,4
+70,Jeffrey's Bar,001-781-564-7199x940,gallaghermichael@palmer.com,30147 Scott Pine,New Davidburgh,Texas,42018,1,1,1,0,2,4,2,2
+71,Kim's Bar,001-848-801-3623x2947,seanthompson@jones-hernandez.com,898 Carlos Dale,Burnshaven,Missouri,84648,0,0,0,0,5,1,5,2
+72,Stephanie's Bar,(661)550-9843,kenneth75@jones.info,0506 Darlene Shoals Suite 099,Kimberlyberg,Alabama,50832,1,1,1,1,4,3,5,1
+73,Alexander's Bar,+1-139-614-6853x161,jwarren@yahoo.com,845 Lang Summit Suite 654,Rojasport,Hawaii,5097,0,1,0,0,4,2,1,5
+74,Joseph's Bar,525.945.3891,wbridges@melton-salas.com,24873 Megan Trail Suite 018,Port Kristinton,Nevada,92841,1,0,1,1,4,2,5,3
+75,Daniel's Bar,+1-788-244-9480x672,johncurtis@adams-dixon.info,06943 Cochran Viaduct Suite 533,South Christineside,Connecticut,91879,0,0,1,0,5,5,5,3
+76,Kristy's Bar,047-709-4381x63654,vangjohn@yahoo.com,060 Marshall Way Suite 019,Lake Kayla,Nevada,99891,0,0,0,1,4,2,4,2
+77,Megan's Bar,(573)832-6324x01524,teresaweaver@hubbard.com,239 Dennis Inlet Suite 808,East Brandystad,Alaska,98557,1,0,1,0,2,1,3,1
+78,Renee's Bar,+1-708-278-1611x190,jrobinson@hotmail.com,34695 Stephen Path,Port Ronald,Florida,49236,0,0,0,1,5,1,3,5
+79,Amber's Bar,6882555330,jonathanjohns@myers-colon.com,381 Dominique Fields,Jamesfort,New Hampshire,98887,0,0,1,0,1,5,2,5
+80,James's Bar,(041)729-6187,jackiefox@yahoo.com,311 Mitchell Island Apt. 447,Davidburgh,Arizona,94474,1,0,1,1,5,1,2,4
+81,Heather's Bar,8754398195,nancyatkinson@hotmail.com,2635 Jennifer Point,Jessicamouth,Oklahoma,31263,0,0,1,1,1,5,4,3
+82,Valerie's Bar,764.772.7155x0475,rhondaschaefer@pena.com,71841 Humphrey Springs,Robertbury,Oregon,73892,1,0,1,1,3,4,3,3
+83,Thomas's Bar,259.399.5082x46089,thaas@watson.net,5237 Gregory Ports,Bakerton,Delaware,36915,1,0,0,0,3,2,2,5
+84,Paula's Bar,458-482-3925,peckamanda@stephens-preston.com,42720 Michelle Route,Port Catherine,Missouri,64178,1,1,0,1,2,5,2,1
+85,Ricky's Bar,4583368004,christopher15@gmail.com,8016 Donald Mountains,West Emily,Alaska,9169,1,0,1,1,2,5,2,5
+86,Bailey's Bar,001-438-637-5453x9929,chasekennedy@yahoo.com,00648 Hobbs Mountain Apt. 566,Watersmouth,Louisiana,85407,1,0,1,1,5,4,3,2
+87,Angela's Bar,2746315501,camerontony@yahoo.com,456 William Place,North Heather,Arizona,51775,1,1,0,0,4,2,3,3
+88,Christopher's Bar,357-593-9545,orrerin@gmail.com,2274 Scott Road,Lake Christianfort,Utah,69658,1,1,0,0,3,5,3,4
+89,Evan's Bar,509.421.8529,robertrussell@gmail.com,703 Myers Stravenue,West Richard,Utah,29570,1,1,1,1,3,4,5,1
+90,Shannon's Bar,+1-414-153-1496x467,rmiller@yahoo.com,780 Taylor Shores,Leachport,New Jersey,17894,1,0,1,0,3,2,2,4
+91,William's Bar,+1-065-561-0775,rebeccabyrd@yahoo.com,9513 Lopez Causeway,Millstown,Washington,98920,1,1,1,0,3,4,3,3
+92,James's Bar,+1-779-272-2261x623,mercedesrogers@hotmail.com,647 Smith Underpass,Port Lawrenceport,Colorado,85736,0,1,1,1,3,4,4,1
+93,Marco's Bar,001-547-993-0096x496,zhouston@santiago.com,937 Isaac Wells Suite 697,Port Isaac,California,62569,1,1,0,1,2,5,4,2
+94,Jade's Bar,860.979.3224,hferrell@hotmail.com,525 Sean Plain,Michaelhaven,New Jersey,46998,0,1,0,1,5,5,4,1
+95,Julie's Bar,717-829-5399x513,brennanjames@diaz.com,16276 Wilson Loop,Smithville,Michigan,2628,0,1,0,1,1,2,1,4
+96,Margaret's Bar,220.866.3798x0543,taylorallison@hotmail.com,530 Martinez Prairie Suite 818,Lake Daniel,Minnesota,51689,1,0,1,0,2,5,4,3
+97,Wesley's Bar,(380)148-4790,thompsonwilliam@yahoo.com,5728 Dixon Crossing Suite 813,Anthonychester,North Carolina,95779,0,0,0,1,1,2,4,4
+98,Kenneth's Bar,001-659-035-2474x268,henrylarry@gmail.com,6560 Adams Prairie,East Laurenport,New Mexico,27341,1,0,0,1,2,3,5,3
+99,Karen's Bar,894.283.9479,smithdavid@gmail.com,58592 Arias Village,Chapmanfort,South Dakota,37921,1,1,0,0,3,4,5,3
+100,Linda's Bar,502-938-6373,erusso@white.com,096 Andrade Unions,South Patrickchester,Pennsylvania,55652,0,0,1,0,2,2,2,4
+101,Marissa's Bar,(506)791-2181x2005,wbowman@hotmail.com,245 Virginia Summit,Taylorfurt,Alabama,74524,1,1,1,1,2,4,2,1
+102,Margaret's Bar,+1-114-362-7398x68891,elaine26@galloway-hoffman.info,87504 Potter Pass,Roseton,Arkansas,83903,1,1,0,1,5,5,2,3
+103,Troy's Bar,(090)309-4883,jenniferbailey@hotmail.com,09987 Odonnell Camp,Michaelville,Ohio,93708,0,1,1,1,1,4,2,2
+104,Vanessa's Bar,796.125.9992x195,sandra09@jensen-anderson.com,582 Murray Alley Suite 562,Reedstad,Georgia,49188,1,1,1,0,5,4,3,2
+105,Wesley's Bar,+1-160-116-1173,allenlara@gmail.com,924 David Curve Suite 782,Port Richard,Wyoming,28719,0,1,1,0,4,4,2,5
+106,Christine's Bar,348.180.3266x5744,hgordon@gmail.com,54012 Brian Plain Suite 756,Johnsonbury,Iowa,63872,0,1,1,0,5,4,2,1
+107,Raven's Bar,071-214-4693x2771,qblack@clark.com,2562 Cameron Parks Apt. 497,Georgeville,Alaska,82271,0,0,1,1,5,3,1,3
+108,Cory's Bar,1466531393,alexander49@hotmail.com,5106 Patricia Square,West Amy,Alabama,26206,1,1,1,1,4,1,4,2
+109,Angel's Bar,(913)215-5492,psullivan@gmail.com,5404 Molly Estates Apt. 166,Kathrynview,Missouri,77834,1,1,1,0,5,2,2,4
+110,Aaron's Bar,001-529-561-3356x8568,petersonjoseph@yahoo.com,9682 Moore Locks Apt. 298,Robertton,Nebraska,43530,1,0,0,0,1,2,3,4
+111,Kristin's Bar,9171023649,jschwartz@gmail.com,180 Allison Shores Apt. 172,Amyview,Louisiana,41555,1,1,1,0,4,3,1,1
+112,Nicholas's Bar,801.119.5471x9859,ocline@gmail.com,092 Jennifer Port,South Sabrinaport,Colorado,73308,0,0,0,1,1,5,4,5
+113,Eric's Bar,(767)635-3964x0591,jacksonkathleen@smith-allen.net,099 Marshall Junction Apt. 739,Port Erikaville,Oklahoma,44478,1,1,0,1,2,3,1,5
+114,Jennifer's Bar,232-914-8642,jenningscassandra@riley.biz,7040 Acevedo Rue,Adamburgh,Vermont,35581,0,1,0,0,5,1,4,2
+115,Jeffrey's Bar,190-336-8217,austin94@wilson-johnson.net,3868 Calvin Manor Apt. 088,Stanleyview,Texas,86985,1,0,0,1,5,3,1,1
+116,Steve's Bar,+1-811-070-7609,sjohnson@dyer-tanner.com,27722 George Lake Suite 515,Port Deborahmouth,Vermont,41172,0,0,1,1,3,2,4,5
+117,John's Bar,+1-142-835-7338x48749,swu@schwartz-park.com,7716 Kenneth Dam,East Chasemouth,Ohio,86521,1,0,0,0,4,4,3,3
+118,Lindsey's Bar,(403)077-1905,markmueller@silva.com,2959 Meyer Crescent Suite 482,North Ashleyburgh,Virginia,94815,1,1,0,0,5,4,5,2
+119,Kenneth's Bar,(842)144-2190x985,joshuabarnes@wright.com,71334 Patricia Pine Suite 513,Garciafurt,Utah,32747,1,1,0,0,3,1,1,1
+120,Ashley's Bar,001-628-347-9024x50468,jonreid@gmail.com,08685 Susan Plains,Allenville,North Dakota,51254,1,0,0,0,1,1,5,5
+121,Todd's Bar,+1-263-456-8214x23477,joliver@richards.com,68650 Brent Road Apt. 684,Lake Rachelberg,Colorado,34307,0,0,1,1,5,4,5,2
+122,Amanda's Bar,030.720.2181,kristinjennings@yahoo.com,38302 Harris Ferry Apt. 040,New Taraview,South Carolina,92645,0,1,1,0,2,5,1,3
+123,Kaylee's Bar,201.695.3801x7355,nicholas42@green-bautista.com,814 Montes Union,West Jason,California,81872,0,1,1,1,3,5,2,4
+124,Ashlee's Bar,(903)428-4760x167,bankscynthia@myers.com,847 Silva Creek Suite 650,Davefurt,Mississippi,25800,1,0,1,1,3,1,2,3
+125,Darrell's Bar,(304)547-8216,tanyamills@ortiz.com,81815 Stephanie Tunnel,West Jessica,Arizona,15874,1,0,1,0,5,1,2,1
+126,Ryan's Bar,126-612-3566,chaseramos@gmail.com,6229 Lawrence Neck,Kevinmouth,Maryland,84128,1,1,1,1,2,5,5,4
+127,Danielle's Bar,+1-879-413-1863x725,paulcohen@garza.com,0422 Joseph Trail,North Kathleen,Arizona,67799,1,0,1,1,1,2,5,4
+128,Matthew's Bar,905-402-9769,lisa26@green.org,35600 Donna Locks,Port Brian,New Jersey,26167,1,0,0,0,3,3,5,2
+129,Donna's Bar,001-961-643-6856x516,morgananthony@warren-scott.com,8022 Mario Corner,Lake Mikemouth,Iowa,81584,0,0,1,1,4,2,3,1
+130,Patricia's Bar,001-145-884-4480x83371,alexis97@gmail.com,46245 Amanda Run,New Brian,South Dakota,46926,0,1,0,0,5,1,2,1
+131,Albert's Bar,942-961-7300x6038,dwilliams@dickerson.com,665 Smith Mountains,Shepardtown,Iowa,52941,1,1,0,0,2,1,4,5
+132,Danielle's Bar,199-741-7365,laurensmith@smith.com,621 David Field,Harrisside,Alabama,46955,1,1,0,1,2,1,1,4
+133,Katherine's Bar,+1-859-127-3109x78763,noahphillips@yahoo.com,6325 Robinson Burgs Apt. 848,Port Heather,Indiana,8966,1,1,1,0,3,2,3,5
+134,Roberta's Bar,703.196.5857x445,paul71@higgins.com,2776 James Vista Suite 817,East Michaelberg,Florida,32094,0,1,0,0,2,4,4,2
+135,Richard's Bar,363-583-8366x1772,johnathan11@gmail.com,423 Alexandra Mountain Suite 770,Kathyfort,Virginia,3048,0,0,1,1,4,2,3,5
+136,Chad's Bar,+1-236-904-2607x999,sandrajones@gmail.com,85864 Mcdonald Keys Apt. 580,Lake Roy,Connecticut,45770,0,1,0,0,4,2,3,1
+137,Michele's Bar,664-245-6399,penajose@smith-cruz.com,84832 Courtney Plaza,Maloneburgh,Washington,11860,1,0,0,1,5,3,4,3
+138,Richard's Bar,810.260.3527,ymcbride@yahoo.com,902 Brian Port Suite 420,North Shannon,Alabama,54206,1,0,1,0,4,1,4,3
+139,Brenda's Bar,594.240.0577x19614,alicia79@farley-medina.com,125 Juan Overpass Suite 002,Kristinbury,Washington,99679,1,0,0,1,2,5,4,2
+140,Albert's Bar,+1-576-669-7073,breannahull@caldwell-melton.com,05882 Karen Burg Apt. 307,Brownfurt,Iowa,95111,1,0,1,0,5,4,4,2
+141,Amy's Bar,663-569-9997,dustin86@henson.com,05688 Martin Manors,West Kyle,California,82070,1,0,1,0,5,5,4,5
+142,Michael's Bar,5615479569,morgan12@yahoo.com,210 Turner Grove Apt. 195,Lake Jasonside,Arkansas,49412,0,0,1,1,2,2,4,1
+143,Ebony's Bar,+1-362-901-3684x837,lindseygreen@hotmail.com,89545 Lucas Junction Apt. 310,New Matthewberg,North Carolina,72736,1,0,1,0,4,4,3,3
+144,Allison's Bar,+1-765-760-6433,gscott@franklin.net,0705 Natalie Track,Port Samuelton,Alaska,55867,0,0,1,0,2,5,4,1
+145,Marissa's Bar,+1-201-975-3476x96819,ryan16@yahoo.com,1943 Brett Walks,Michaelview,New Mexico,92411,1,1,0,1,3,5,2,3
+146,Catherine's Bar,(774)056-1707x8169,susan91@brown-newman.com,3185 Thomas Bypass Suite 727,Lorraineton,North Dakota,85049,0,0,1,0,2,3,4,4
+147,Jessica's Bar,379.601.9274x18912,michelleblair@fox.info,72045 Guzman Mill Suite 573,Leefurt,Ohio,320,0,0,1,0,1,2,5,1
+148,Kathy's Bar,+1-059-800-6658,hughesandrea@johnson-henderson.com,338 Sonya Land,North Erinfurt,North Carolina,43776,0,0,0,0,3,1,2,4
+149,Andrew's Bar,313.241.1080x8968,michelle26@yahoo.com,32531 Williams Green,Johnville,Utah,57980,1,0,0,1,4,3,3,5
+150,Alan's Bar,200.637.8702,zdavis@yahoo.com,46736 Virginia Estates Apt. 256,Port Carla,Massachusetts,26041,0,1,1,0,3,3,3,3
+151,Andrew's Bar,304.910.5967,dawn56@brooks.info,18749 Wright Summit,Grantfurt,Maryland,92490,1,0,1,0,5,5,2,3
+152,Christina's Bar,589.595.5165,ianperry@yahoo.com,901 Richard Locks,Port Bryanbury,Kentucky,76368,0,0,0,1,1,1,3,1
+153,John's Bar,(896)978-1433,evansterri@roberson.org,399 Jacobson Creek,Lake Patriciatown,North Dakota,27532,0,1,1,1,3,5,5,4
+154,Michael's Bar,729.848.4512x0320,ann97@hotmail.com,08594 Gomez Hills,Anthonyshire,Florida,57783,1,0,0,1,2,1,4,3
+155,Kevin's Bar,+1-927-694-5845x790,uknight@bradshaw.com,0523 Emily Cove Suite 611,New Reginashire,Massachusetts,73505,0,1,1,1,5,4,1,1
+156,Robyn's Bar,346.669.9628x009,guy19@williams-smith.org,90569 Hopkins Ramp,North Thomas,Kansas,17181,1,1,1,0,4,1,1,5
+157,Steven's Bar,647.782.8268x7626,santosvictoria@washington.com,804 Wright Freeway,North Crystalberg,South Carolina,461,0,1,1,0,1,2,1,1
+158,Tammy's Bar,(333)264-9266x20823,jessica86@washington-stout.com,130 Gonzalez Road Suite 392,Barrburgh,West Virginia,7564,0,1,0,1,5,2,3,1
+159,Anthony's Bar,086.702.1094,rbarker@yahoo.com,947 Hannah Street Apt. 423,Danielview,Mississippi,61869,0,1,0,0,1,3,1,2
+160,Cathy's Bar,001-818-291-6586,sruiz@hotmail.com,340 Mary Ranch,Schmidtland,Nebraska,52400,1,0,1,1,5,4,3,2
+161,Rebecca's Bar,+1-177-086-3365x7864,john34@walton.com,771 Torres Tunnel,East Aliciafurt,Massachusetts,38439,0,1,0,1,5,3,4,2
+162,Haley's Bar,902.127.2275x00120,moralesapril@gmail.com,71807 Scott Curve,North Corey,South Carolina,81899,1,0,0,0,3,2,1,2
+163,Christopher's Bar,001-425-750-6729x37754,sarawilliams@yahoo.com,143 Whitaker Prairie,North Terry,Maine,94106,1,0,1,1,3,2,3,2
+164,Paul's Bar,+1-164-251-9024x8961,ostewart@hotmail.com,336 Silva Causeway Suite 453,Yatesbury,South Carolina,23521,0,1,0,1,1,4,5,1
+165,Kimberly's Bar,852-743-7210,williamsjason@richardson.com,702 William Row,Lake Samanthamouth,Delaware,97331,0,1,0,1,4,3,4,2
+166,Heather's Bar,741-409-3158,kimberly82@vega.info,308 Powell Causeway,Port Toddville,Kentucky,65317,1,1,1,0,4,1,4,4
+167,Matthew's Bar,867.048.5932x896,adam75@hotmail.com,622 Darrell Ways,New John,Iowa,59587,0,1,1,0,2,2,1,4
+168,Cody's Bar,618-582-8272x1456,floydnathan@yahoo.com,58464 Alex Circles,Chungfort,New York,77337,0,1,1,0,5,4,5,1
+169,Samantha's Bar,(603)589-4316x713,michelle99@gmail.com,613 Judy Ferry Suite 878,Keithmouth,Rhode Island,99712,0,1,0,0,5,2,1,1
+170,Anthony's Bar,+1-514-129-5121x752,cynthia24@yahoo.com,1175 Vega Vista,Haroldfurt,New Jersey,90510,0,1,1,0,2,5,2,5
+171,Elizabeth's Bar,(695)166-8888,woodssergio@gmail.com,464 Rachel Forks,Cherylside,Ohio,5194,1,1,1,1,2,2,3,5
+172,Tina's Bar,241.336.9459x56560,sperkins@yahoo.com,811 Preston Locks,Lake Brittany,Mississippi,68263,1,0,1,1,5,3,3,3
+173,Kent's Bar,+1-323-448-9511,xrogers@lee.com,476 Eric Mountain,Perkinsmouth,Vermont,50143,1,1,0,1,2,3,5,3
+174,George's Bar,128-806-9374,garciaandrew@boyd.com,19242 Amy Oval,Wrightborough,Nevada,45802,1,1,0,1,3,2,2,5
+175,Melinda's Bar,285-175-7035,betty19@campos.com,25464 Daniel Walk Suite 522,West Tina,Oklahoma,43237,0,1,1,1,1,4,2,2
+176,Ruth's Bar,464.916.7683,simmonsjennifer@martinez-warren.info,9318 Wagner Meadow,South Heather,Arizona,30746,0,0,0,1,4,1,2,1
+177,Mark's Bar,+1-500-752-8344x320,mariahickman@hotmail.com,191 Webster Ridges,Michaelville,Maine,98901,0,1,1,1,2,5,5,5
+178,Elizabeth's Bar,9026453557,pricedavid@wilson-marshall.net,9768 Wyatt Village,West Brandonfort,Wisconsin,65324,0,0,0,0,4,4,4,2
+179,Frederick's Bar,775-118-3186,dgonzalez@hotmail.com,61784 Kelly Underpass,Cynthiaville,Michigan,61967,0,1,1,0,5,4,5,5
+180,Richard's Bar,+1-122-985-3455x804,ronald41@solomon.org,8415 Reed Brook Suite 241,Lake James,Virginia,83170,0,0,0,1,5,4,3,1
+181,Norman's Bar,+1-012-533-2739,vferguson@hotmail.com,67755 Kiara Mill Apt. 009,Collinsberg,Arizona,5457,0,0,0,1,2,4,4,5
+182,Alexis's Bar,001-015-530-3493x1481,emiller@perez.com,15391 Crystal Lakes,Lake Rachel,Colorado,50079,0,1,1,0,3,4,1,4
+183,Kristin's Bar,767.905.1738,kimberly31@yahoo.com,383 Thomas Corner,South Jonathan,Utah,76940,0,1,1,1,2,5,1,5
+184,Eric's Bar,7461481602,mendozamitchell@walls.net,7945 Karla Lodge Apt. 391,East Mariaport,Ohio,23734,1,1,1,1,5,1,2,3
+185,Connie's Bar,+1-253-044-5713x775,nfranco@gmail.com,978 Carter Haven Apt. 678,Scottburgh,Louisiana,42166,0,1,0,0,3,4,5,3
+186,Oscar's Bar,516-171-8423x394,westvictoria@hotmail.com,89686 Holland Rue Apt. 394,Lake Christinamouth,California,53696,0,1,0,1,5,2,2,3
+187,Lauren's Bar,+1-731-336-9004,melissadelacruz@gmail.com,5651 Ruiz Plaza,Matthewshire,Florida,90256,1,0,0,0,4,1,4,1
+188,Kimberly's Bar,7778122474,ashleekirk@yahoo.com,771 White Cape Suite 955,Georgeland,Tennessee,33153,1,0,1,0,1,4,4,4
+189,Derek's Bar,539.200.8816x057,wboyd@hotmail.com,1000 Carlos Court Suite 923,South Curtis,North Dakota,30536,1,1,0,0,2,5,5,4
+190,Kyle's Bar,1294107789,cmorrison@gmail.com,3151 Stanley Springs Suite 280,Lake Julia,Iowa,17845,1,1,0,0,3,3,3,4
+191,Christian's Bar,+1-238-076-7126x3081,juliemiller@gmail.com,79779 Neal Burg,South Michele,Maryland,1546,0,0,1,0,2,1,3,5
+192,Rebecca's Bar,364.289.2781,robbinsscott@yahoo.com,93949 Brooke Path Apt. 014,Denisechester,Arizona,504,0,1,0,0,2,4,2,5
+193,Kenneth's Bar,765-021-4238,moralesjoshua@acosta.biz,897 Roger Place,Joneschester,Michigan,23754,0,1,1,0,2,1,3,3
+194,David's Bar,+1-104-378-7424x87513,andersondominic@gordon.com,275 Wilson Shores Suite 489,Munozstad,Louisiana,37517,1,0,1,0,3,3,3,1
+195,Mary's Bar,(542)886-1612x0807,ssmith@jimenez.com,7032 Hicks Meadow Apt. 689,Port Tommy,Oregon,60051,0,0,1,1,1,4,2,2
+196,Erin's Bar,6984365708,davidleach@yahoo.com,815 Gibson Mission Suite 055,Matthewborough,Idaho,2067,0,1,0,1,5,2,2,1
+197,Victoria's Bar,876.961.3239x954,wrightmichelle@alvarado.com,89156 Bailey Corner Suite 966,Port Angel,Washington,10765,0,0,1,0,1,2,2,4
+198,Emily's Bar,(342)150-7623,richardnichols@hotmail.com,561 Jason Gardens Apt. 260,New Mitchellchester,Arkansas,81180,1,0,0,1,2,2,5,1
+199,Jeffery's Bar,(454)057-5926x878,qaustin@adams.com,91482 Scott Island,East Patriciamouth,Minnesota,48620,0,1,1,1,1,2,5,5
+200,Sarah's Bar,557.976.5374,kennedyjeremy@yahoo.com,4617 Carlson Grove Apt. 096,Port Louis,Kansas,31679,0,1,1,0,2,1,4,1
+201,Michael's Bar,001-878-240-7273x4037,nealdawn@young.com,93020 Donna Orchard,Port Tinaland,Florida,36321,1,1,0,1,5,1,3,4
+202,Michael's Bar,(667)271-5679x0619,david94@walters.com,61798 William Union,South Scottfurt,Virginia,52029,0,1,0,1,2,1,5,2
+203,Elizabeth's Bar,134-514-8961,melendezmary@yahoo.com,86260 Natalie Fields,West Sarahville,Delaware,49439,0,0,0,0,2,3,2,5
+204,Christina's Bar,3179456888,jefferygreen@hotmail.com,148 Ruiz Port Apt. 424,South Jasontown,Indiana,42340,0,0,1,1,1,3,2,2
+205,Jonathan's Bar,+1-337-751-0992x5343,hermankent@gmail.com,1512 Robert Meadow,Port Sarah,Ohio,62320,0,1,0,0,1,3,2,3
+206,Luis's Bar,265.830.3644x963,davidfernandez@holt.com,424 Garrett Mount,Simsland,Arkansas,61424,0,1,0,0,1,3,1,2
+207,Rebecca's Bar,465-435-4522x137,kim61@hotmail.com,101 Becker Centers Suite 843,Rowlandland,Arkansas,52225,0,0,1,0,3,3,5,1
+208,Patrick's Bar,1245745507,colematthew@perez.info,45778 Samantha Walks,Jesusville,Rhode Island,58166,0,1,1,1,1,4,3,4
+209,Joseph's Bar,366-265-1170x730,danielsmith@davis-pineda.org,8813 Moon Branch Suite 017,Chadstad,Florida,53501,1,1,0,0,1,3,4,4
+210,Elizabeth's Bar,614-296-0626x712,kimallen@yahoo.com,170 Francisco Circles,Roseport,Indiana,17773,1,1,1,1,2,5,4,1
+211,Sarah's Bar,5255840713,dixonmark@sanders.com,384 Kyle Ridge,Leonview,Oregon,74644,1,1,0,0,2,1,3,4
+212,Tonya's Bar,(407)349-7010,fschroeder@gmail.com,5495 Joshua Crossroad,Chandlermouth,Montana,41459,1,1,1,1,5,2,5,5
+213,Sarah's Bar,(546)530-9622x620,kylecarroll@hotmail.com,617 Devon Corner,Youngshire,Vermont,13624,0,0,1,1,1,5,1,2
+214,Lisa's Bar,474.797.2126x05613,michael20@guerra-reynolds.com,1082 Fisher Creek,Port Toddfort,Iowa,85451,0,1,1,1,3,3,1,5
+215,Alexander's Bar,751-253-3146x81536,jcrawford@hotmail.com,475 Jacobs Meadow,East Stephanieburgh,Nebraska,97057,1,1,0,0,2,3,2,5
+216,Jamie's Bar,124-301-9411,jeffrey41@tucker.com,08772 Roger Ville Suite 117,South Lori,Rhode Island,3699,0,1,1,0,2,2,1,5
+217,Robert's Bar,402.492.7183x5305,ingramtammy@travis-bailey.com,8096 Renee Extensions Suite 670,Port Ellenstad,Missouri,79285,0,1,0,0,5,1,4,2
+218,Heather's Bar,771.651.9160x09147,sydney58@gmail.com,28777 Philip Plains Apt. 591,Lake Vincent,Connecticut,46322,0,0,1,0,3,2,3,4
+219,Debbie's Bar,649-146-0443,thomasmoore@malone.com,3421 Justin Square,North Douglas,Wyoming,78497,1,1,0,0,5,3,4,2
+220,Michael's Bar,+1-720-783-8291x967,eruiz@arnold.org,5778 Campbell Fall,North Danielbury,Connecticut,43508,0,1,0,0,1,2,5,3
+221,Mary's Bar,6020707438,robertsmark@yahoo.com,41949 Benjamin Circle,Lake Markberg,Louisiana,84745,1,1,0,0,2,3,1,2
+222,Dawn's Bar,001-661-944-7589,ruizdavid@smith.biz,552 Glenn Shore,Lake Davidfurt,Nevada,44823,1,1,1,1,1,3,5,2
+223,Stanley's Bar,(453)782-2341x6852,rhondaevans@hotmail.com,088 Nichols Mews,Whitehaven,Massachusetts,15264,0,0,0,1,1,3,2,3
+224,Timothy's Bar,448-283-5225x1774,dominique85@trujillo.net,51405 Robinson Street,Jessehaven,Pennsylvania,73434,1,1,1,0,3,2,3,1
+225,Bill's Bar,749.621.5260x7280,brian04@ford.com,098 Guzman Ville Suite 537,East Daltonhaven,Minnesota,29965,0,0,1,0,5,2,1,5
+226,April's Bar,(346)870-9340x23110,davidedwards@yahoo.com,6935 Miller Vista,Lake Catherine,New Hampshire,49773,1,0,0,1,4,1,5,2
+227,Jose's Bar,545.677.5417,danielsdonna@smith.com,5028 Edwards Stream Suite 452,West Sarah,Colorado,38173,0,1,1,1,2,4,2,1
+228,Joseph's Bar,8217460348,vtorres@harding-french.com,359 Bauer Ranch,Audreyborough,Iowa,20506,1,1,1,1,1,3,4,5
+229,William's Bar,(712)922-2892,mtucker@yahoo.com,4035 Vincent Islands,South Morgan,Indiana,66687,0,0,1,0,4,5,5,3
+230,Wendy's Bar,(601)385-6814x04443,russelljoshua@hoffman.com,18565 Michael Park,South Stacey,Georgia,49677,1,0,0,1,4,3,2,3
+231,Tara's Bar,+1-573-403-2760x7254,nrichardson@yahoo.com,2876 Clarke Highway Suite 245,South Georgemouth,Arkansas,26402,0,1,1,0,4,5,1,4
+232,Alexander's Bar,081-933-5165,serranochase@gmail.com,9372 Natalie Harbors Apt. 468,Lake Melissa,Iowa,79386,1,0,1,0,3,1,2,1
+233,Kyle's Bar,481-183-8939,lchurch@andrade-moyer.biz,35236 Williams Trail Apt. 597,Karenfort,Mississippi,22659,0,1,0,1,3,4,2,2
+234,Julie's Bar,218-949-5819,halemichelle@hotmail.com,33959 White Via Suite 332,North Gabriel,Virginia,13687,0,0,0,0,5,1,5,4
+235,Carolyn's Bar,+1-058-433-2646x9843,qwatson@warner.org,83670 Price Club Suite 490,Mcbridestad,Oregon,4229,1,0,1,0,1,3,4,3
+236,Tanya's Bar,(884)462-6667x2841,smithloretta@gmail.com,5218 Chelsea Forges Apt. 218,Annetteton,Ohio,58016,1,0,1,0,1,1,1,4
+237,Seth's Bar,(895)736-2712,tammy27@waters-brown.com,877 Donald Radial Suite 015,Josephchester,Alaska,86750,0,0,0,1,2,3,5,3
+238,Nathan's Bar,+1-814-628-1909x603,meagan17@harding-steele.biz,952 Williams Rue Apt. 488,New Katiechester,Wisconsin,15271,1,1,1,1,3,1,5,2
+239,Brittany's Bar,270-616-8804x733,alexandrabraun@yahoo.com,32231 Moore Passage,Annetteland,Connecticut,15950,0,0,0,0,2,4,5,2
+240,Nicole's Bar,+1-610-138-0303x1226,robertchavez@gmail.com,455 Kevin Greens Apt. 602,Erinville,Illinois,23098,0,0,0,0,2,5,4,4
+241,Taylor's Bar,+1-373-495-1610x559,jmueller@hotmail.com,495 David Ramp Suite 384,Dawnchester,Mississippi,17876,1,0,1,0,3,1,1,2
+242,Amy's Bar,(452)217-3515x18943,ipratt@wilson.com,97498 Suzanne Row,Emilyview,Pennsylvania,58802,1,0,1,0,2,2,4,4
+243,Beverly's Bar,682.173.7486x8060,tbenitez@barnett-smith.org,0830 Johnny Plaza Suite 454,Port Steven,Colorado,12880,0,1,1,0,1,3,2,1
+244,Alicia's Bar,+1-173-643-5631x723,drakemichael@gmail.com,88448 Katherine Canyon,West Tinafort,Alabama,65036,1,0,1,0,4,5,2,5
+245,John's Bar,1816665610,xmedina@campos.com,55676 Dawn Mall,Martinstad,New York,58164,1,1,1,0,1,5,1,1
+246,Olivia's Bar,857.397.1193x3940,audreychen@wilson-jones.org,30665 Taylor Junction Suite 616,South Patrick,Arkansas,73162,0,0,1,1,1,4,1,2
+247,Latoya's Bar,153-999-8991,lozanosarah@duncan.com,591 Robert Harbor,Lopezstad,Massachusetts,14572,1,1,0,0,3,3,3,5
+248,Troy's Bar,139-950-5525,patricia42@yahoo.com,93703 May Walks Apt. 492,Port Carlport,Florida,45528,0,0,1,1,3,2,3,3
+249,Pamela's Bar,+1-881-746-1014,christopher62@gibson.com,918 Jeremy Passage,Westtown,Michigan,45906,1,1,1,0,3,3,3,5
+250,Michael's Bar,951-277-4483x89537,chandlersean@davis-mcknight.com,6630 Jeffrey Parkway Apt. 522,Patelmouth,Illinois,9905,0,1,1,0,2,2,1,2
+251,Wendy's Bar,(111)203-5717x575,campbellbrittany@luna.com,09908 Gutierrez Haven,Brandiville,Iowa,40399,1,0,0,1,5,4,2,1
+252,Jill's Bar,955.047.4587,jessicaroth@davenport.com,2687 Margaret Landing Apt. 861,Nathanland,Colorado,61855,0,1,1,0,4,2,5,3
+253,Gerald's Bar,350.073.8765,bkhan@mason.com,6456 Torres Haven Apt. 965,Lake Patriciachester,Missouri,93147,0,0,0,1,2,3,5,2
+254,William's Bar,121.350.9796x541,gcurry@gmail.com,0361 Harrison Keys Suite 201,North Keithside,North Dakota,61223,0,1,0,1,5,3,4,4
+255,Jennifer's Bar,001-775-908-8986x97605,brianmoore@sexton-butler.info,58858 Bailey Ramp,East Bethchester,Montana,60356,0,1,1,1,1,3,5,4
+256,Jeffrey's Bar,+1-654-377-1153x422,ovincent@yahoo.com,4124 Green Route Apt. 225,Hunterside,New York,34441,1,1,0,0,4,1,3,5
+257,Laura's Bar,4443732564,morrisdiane@rollins.com,25819 Ortega Via,West Andrew,New Mexico,82010,1,0,1,1,1,3,4,3
+258,Charles's Bar,+1-871-966-6621x0559,jacob69@jordan-boyle.biz,364 Brian Canyon Suite 464,Port Nancy,Washington,24825,0,1,0,0,4,5,4,1
+259,Tom's Bar,851-648-2815,johnnyleach@smith-brown.info,52439 Rivera Path Suite 617,West Jeremy,Nebraska,23660,1,1,0,0,5,4,1,4
+260,Amy's Bar,518-528-1445x373,michaeljones@gmail.com,195 Michael Brooks,Sarahville,New Jersey,26131,0,1,0,0,4,3,5,4
+261,Stacy's Bar,049-276-4671x8736,davidgreen@hotmail.com,2004 Brenda Turnpike Apt. 757,Bryanthaven,Nebraska,32298,0,0,0,0,5,3,5,4
+262,Judith's Bar,001-781-608-4273x35774,mariagalloway@valentine.com,3809 Jennifer Inlet Apt. 460,Robinton,Missouri,2865,0,0,0,1,1,3,3,4
+263,Regina's Bar,(344)900-0265x5669,lorettasmith@gmail.com,19557 Kennedy Cliffs Apt. 593,Bookerborough,Nebraska,18181,1,1,1,1,1,3,5,4
+264,Ryan's Bar,890.413.3846x103,erikagallegos@hotmail.com,4343 Cain Villages Apt. 012,Port Karen,Louisiana,14854,0,0,1,1,5,3,5,2
+265,James's Bar,(757)776-8686x7643,josedavenport@hotmail.com,36916 Mejia Meadows Apt. 625,Lake James,Maine,96094,1,1,0,0,4,4,5,4
+266,Joel's Bar,001-140-644-9512,johnathan44@joseph.com,48420 Robert Common,Lake Craig,Maryland,13991,1,0,1,0,4,1,1,3
+267,George's Bar,1422862447,nancy04@yahoo.com,446 Cox Squares,Port Hannah,New York,39904,0,1,1,0,3,3,3,2
+268,Anthony's Bar,446-366-4835,cpeters@gmail.com,8213 Adam Bridge,Port Elizabethside,Idaho,55119,1,0,1,0,5,4,1,4
+269,Joseph's Bar,+1-629-942-2936x9321,guerrerolouis@mcintyre.net,048 Joe Garden Apt. 505,Andreaberg,Illinois,109,1,0,1,1,3,2,4,3
+270,Mitchell's Bar,001-143-458-7720x4448,levi67@sexton.com,99802 Owens Track Apt. 278,Tylerstad,Oklahoma,99109,1,1,1,0,4,4,5,2
+271,Jill's Bar,+1-718-958-0168x10506,jenniferjones@price-hurst.com,868 Turner Mountain Suite 404,Mariaberg,Missouri,83852,1,0,1,0,3,1,5,1
+272,Andrew's Bar,232.990.7225x61985,robert87@wood.com,23810 Martinez Fords,Faithbury,Idaho,70929,1,1,1,0,2,4,1,4
+273,Daniel's Bar,(993)949-8017x2943,allendominique@yahoo.com,2974 Ashley Unions Suite 243,Thompsonbury,Oregon,29092,1,0,0,0,3,3,4,5
+274,Thomas's Bar,7380017762,gboyd@hotmail.com,09675 Ross Lakes Apt. 206,Ortizfort,Pennsylvania,34563,0,1,0,1,1,4,3,2
+275,Ryan's Bar,550.436.5432x51851,xkhan@hotmail.com,2391 Barbara Manors,Garciaview,Montana,97113,1,1,0,0,2,5,4,4
+276,Joshua's Bar,+1-506-316-8717x223,amanda39@rodriguez.info,6776 Cummings Motorway,Amandaport,Washington,61613,1,1,1,0,3,2,1,2
+277,Tyler's Bar,(753)529-2313x48336,zelliott@mccormick.net,211 Karen Rapid Suite 731,Port Tammyborough,Idaho,3574,1,1,1,1,1,1,5,3
+278,Kenneth's Bar,753-819-9379,vcain@jensen.biz,79798 Mark Lights,New Briana,Alabama,91731,1,1,1,0,1,4,3,5
+279,David's Bar,3438940852,serranokara@sanders.com,14077 Keller Flats Suite 990,Danafort,Mississippi,23157,0,0,0,1,4,1,3,5
+280,Matthew's Bar,001-169-726-2175x111,houstonrhonda@yahoo.com,92062 Jordan Square,Roseshire,Vermont,43245,0,0,1,0,5,4,1,4
+281,Karen's Bar,(012)053-9401,gyoung@gmail.com,90829 Paige Hill,Andrebury,South Dakota,24535,0,0,0,0,2,2,3,5
+282,Sheryl's Bar,616-817-8131x3046,epierce@gmail.com,962 Brooks Islands,Watkinstown,Iowa,41193,1,0,1,1,3,2,2,5
+283,Denise's Bar,+1-679-951-2402,johntaylor@hotmail.com,54186 Shawn Ford,Hollyborough,Hawaii,31139,0,1,1,1,5,5,2,1
+284,Alexis's Bar,(948)537-3880,walkernathan@hotmail.com,48688 Carrie Ports,Batesburgh,Oregon,66318,0,1,1,0,5,4,1,2
+285,Jasmine's Bar,239.345.0518,bryantpatricia@foster.org,998 Delgado Terrace,Shirleymouth,Arkansas,5182,0,1,0,0,4,1,5,4
+286,James's Bar,115.741.9495x830,kathleen51@gmail.com,950 Katie Port Apt. 444,Danielhaven,Colorado,27769,1,0,0,0,5,2,4,4
+287,Kelly's Bar,100.522.8220x193,ramirezjared@yahoo.com,41057 Tami Common Apt. 974,South Michaelland,North Dakota,30481,0,0,1,0,2,3,3,2
+288,Elizabeth's Bar,001-159-972-0741x895,istafford@hotmail.com,59010 Gonzales Inlet Apt. 722,Simsville,Rhode Island,48720,0,1,0,0,5,3,5,3
+289,Tracey's Bar,(536)917-8918x60827,jmaldonado@hotmail.com,0265 David Station,New Deniseborough,Washington,30115,1,0,1,0,1,4,3,5
+290,Thomas's Bar,634-032-6713,tammy95@jimenez-morse.com,02483 Alexandra Corner Apt. 901,Estradaside,Hawaii,81712,0,0,1,0,5,4,3,1
+291,Brandon's Bar,864.641.7323x74358,kathleenholloway@yahoo.com,88458 Zamora Ferry Apt. 552,Masonland,Arizona,53241,1,0,0,0,2,2,5,4
+292,Kristin's Bar,+1-672-998-3523,wdavis@nixon-wright.com,8162 King Shore Apt. 660,East Daniel,Oregon,4862,0,0,0,1,2,5,1,2
+293,Christopher's Bar,+1-141-565-3382x22207,ortegajose@mckenzie.com,7840 Fisher Ramp Apt. 188,West Dawn,Oregon,1804,0,1,0,0,1,4,1,4
+294,Sandra's Bar,001-436-400-0101x30427,fernandezshannon@graves.info,805 Amanda Crescent,Shahview,Maine,95507,0,1,0,0,4,5,1,2
+295,Brett's Bar,(043)011-5000,npowell@fitzgerald.org,36329 Christina Branch,Port Christopher,Alaska,99443,0,0,1,0,2,5,4,5
+296,John's Bar,001-311-258-9347,bowersmelissa@west.com,239 Lauren Parkways Apt. 132,North Tracybury,Mississippi,10279,1,0,1,1,4,5,4,2
+297,Nathan's Bar,506.308.4235x877,fwright@yahoo.com,5382 Paul Ramp Suite 673,Port Johnbury,South Carolina,28971,1,0,0,1,3,1,1,3
+298,Kevin's Bar,910-839-3289,davidmonroe@morris.com,7232 Ryan Freeway Suite 332,Nataliefurt,North Carolina,1813,1,0,1,0,4,1,5,5
+299,Zachary's Bar,001-879-827-7021x5135,louis99@hotmail.com,7702 Nichols Unions Suite 780,Port David,Mississippi,77291,1,0,1,0,3,5,2,5
+300,Mackenzie's Bar,+1-284-407-9405x979,jsellers@gonzalez-yu.biz,5075 Chung Knoll,North Wendy,North Dakota,45794,1,1,0,0,4,4,2,2
+301,Paul's Bar,508.024.1693x977,nbarry@anderson.info,372 Timothy Corners,Tarabury,Hawaii,17229,0,0,1,1,3,3,1,4
+302,Cody's Bar,+1-022-737-8799x96145,websterdouglas@bennett-moore.com,27821 Thomas Shoals Suite 312,Gutierrezburgh,New Mexico,23521,1,0,0,0,4,1,4,5
+303,William's Bar,301.316.0372,arthur31@fuller-king.biz,720 Moore Crest,Ryanborough,California,80777,0,1,0,0,3,5,3,1
+304,Jennifer's Bar,+1-635-839-1491x119,ygarza@guzman.com,39488 John Via Suite 568,Joshuafort,Rhode Island,46483,0,0,1,1,4,4,2,3
+305,Stacie's Bar,789-153-3997x203,cbennett@hotmail.com,7361 Davila Lights,North Lisa,Texas,31459,0,1,1,1,1,3,3,3
+306,Bonnie's Bar,794.281.9227x4774,wilsonrichard@simmons.biz,85809 Black Grove Suite 033,Laurenfort,Louisiana,52047,1,0,0,1,3,4,2,4
+307,Emily's Bar,(720)350-5688x570,fritzmichele@white-evans.com,4786 Campbell Alley Apt. 586,Port Jay,Connecticut,49055,1,0,0,0,1,3,1,5
+308,Michelle's Bar,001-902-861-6423x66836,hannadaniel@bailey.com,652 Derrick Ports Apt. 287,Raymondhaven,Vermont,94016,1,0,1,1,3,1,3,4
+309,Frank's Bar,+1-216-902-1680x86417,danielle37@palmer.com,50837 Victoria Valley,Desireetown,New Mexico,9907,1,1,0,1,2,4,2,4
+310,Krystal's Bar,(667)005-4685x8894,lewisrichard@gmail.com,451 Barnes Square Suite 345,Rubenland,Arizona,25157,1,0,0,1,5,3,3,3
+311,Lindsay's Bar,001-760-028-9508x28588,jennifercombs@campbell-nguyen.com,24242 Kayla Viaduct Apt. 827,Leeville,Pennsylvania,45432,1,1,1,1,4,3,2,3
+312,Mary's Bar,+1-842-433-5142x2914,glen75@lindsey.net,2284 Roy Mountain Suite 427,South Rebecca,South Dakota,91626,0,0,0,0,3,3,1,3
+313,Laurie's Bar,186.864.0832x344,ysalinas@stewart.org,91806 Olsen Neck Apt. 374,Mandyview,West Virginia,99577,0,1,0,0,1,2,3,3
+314,Jennifer's Bar,028.603.4488,hwest@yahoo.com,22408 Cindy Cliff,Thorntontown,Tennessee,89511,0,0,0,0,4,5,1,5
+315,Kathleen's Bar,200.960.4242,jocelynwagner@gmail.com,1633 Yolanda Parks,Bowmanmouth,Louisiana,33335,0,1,0,0,3,1,3,5
+316,Meghan's Bar,295-447-1591x1553,kjohnson@norris-waters.com,8430 Nolan Road Apt. 124,South Cassandra,Indiana,36305,1,0,0,0,2,5,1,2
+317,David's Bar,302-768-7122x54606,richard39@gmail.com,48798 Hall Trail,Port Virginia,Connecticut,82263,0,1,0,1,2,4,4,2
+318,Cindy's Bar,6967289623,jbrown@gmail.com,05195 Richardson Vista,New Timothy,Tennessee,52020,0,1,0,1,5,3,1,1
+319,Gabriella's Bar,716-734-4057x3624,howellhannah@yahoo.com,51630 Brenda Divide,Kelliview,Michigan,37662,0,0,1,1,2,3,4,3
+320,Lori's Bar,3123048786,emily17@gonzalez-farrell.com,120 Valdez Centers,North Kara,New York,5145,1,1,0,0,2,2,1,3
+321,John's Bar,(959)387-9736,alexanderelijah@bailey-bradley.biz,19444 Emily Drive Apt. 009,Lake Angelaview,Wisconsin,32935,0,1,1,0,5,2,1,1
+322,Kelsey's Bar,+1-050-140-3986,jason18@hotmail.com,450 Barker Turnpike,Wrightmouth,Wisconsin,14733,0,1,1,1,5,5,3,4
+323,Victor's Bar,+1-801-919-2888x00521,fmeyer@gmail.com,81444 Ward Cape Suite 277,Ortegachester,Arizona,95725,1,0,1,1,1,3,2,4
+324,Stephanie's Bar,727-579-0225,brittanyjackson@yahoo.com,1183 Jacob Inlet,Tiffanyburgh,Georgia,58006,0,1,0,1,2,5,2,3
+325,Cindy's Bar,977.521.0562,wcruz@flores.info,712 Lee Drives Suite 313,Rileyview,California,97176,0,0,0,1,2,2,2,1
+326,Mark's Bar,(614)991-6400x81413,qdominguez@yahoo.com,75788 Joshua Mall,West Ashley,Indiana,18816,0,0,1,0,4,5,2,3
+327,Kevin's Bar,(513)163-8921x51438,joanne21@sweeney.net,8500 Dean Crossroad,East Erica,Vermont,59726,1,0,0,0,5,3,3,5
+328,Tanya's Bar,+1-136-568-1386,ureynolds@gonzalez.com,96202 Macias Island Suite 211,Lake Feliciaton,Nevada,35795,0,0,1,0,4,5,3,3
+329,Steven's Bar,698-756-3610x97640,mjackson@wilson-gallegos.com,571 Howell Corner,Port Matthewhaven,Florida,14204,0,0,0,1,5,5,5,4
+330,Erin's Bar,942-162-7956,owalters@yahoo.com,00228 Myers Crescent,Moralestown,California,29641,1,1,0,0,2,3,2,4
+331,Joanna's Bar,129-301-2889x408,whitemonica@hotmail.com,14201 Carla Lights Suite 394,Bethtown,Arizona,53339,1,0,0,0,2,2,5,3
+332,Zachary's Bar,452.929.6617x5416,timothyhernandez@hotmail.com,948 Mariah Camp Suite 215,South Warren,Kentucky,27864,0,0,0,0,4,5,1,3
+333,Sarah's Bar,742-863-4342x988,nsmith@reynolds.com,9032 Kaitlin Trafficway,Gomezchester,Missouri,82315,0,1,0,0,1,2,3,2
+334,Nicole's Bar,+1-721-986-6681,garcialauren@white.com,655 Gabriel Trace Suite 285,South John,Oklahoma,3954,1,1,1,1,1,4,4,3
+335,William's Bar,(784)452-3954,thomascindy@gmail.com,60787 Kellie Spurs Suite 254,Courtneychester,Vermont,82698,0,0,0,1,5,2,2,3
+336,Robert's Bar,+1-422-253-0934x074,mark75@hayes.com,8351 Delacruz Forest,South Shannon,Oklahoma,42625,1,1,1,0,2,4,3,5
+337,Jacob's Bar,(342)000-3002x075,douglas37@yahoo.com,9206 Rose Via Suite 736,East Patrickchester,Vermont,40967,0,0,1,1,2,3,4,2
+338,Sally's Bar,001-397-919-4362x9705,tguerra@lopez.net,500 Cook Mountains Suite 923,Port Carrietown,Washington,71811,0,1,1,1,5,4,3,5
+339,Caleb's Bar,+1-562-602-3845x85636,stephenwolfe@hotmail.com,09639 King Estate Suite 066,New Thomasland,Colorado,44759,1,0,0,0,4,5,5,1
+340,Scott's Bar,146-610-8949,hudsonbrett@norman.com,143 Day Islands,Aprilstad,Iowa,99974,1,1,0,1,2,1,1,2
+341,Bianca's Bar,001-509-615-7088x1911,raymond46@brooks.com,929 Payne Mission,North Richardborough,Wisconsin,51250,0,0,1,0,1,4,5,5
+342,Christopher's Bar,(010)621-9179,jonathan00@hotmail.com,970 Anderson Islands,Port Elizabeth,Washington,61147,1,1,1,0,4,4,4,5
+343,Austin's Bar,250.936.4353,qrivers@gmail.com,95298 Boyd Fords Apt. 833,East Lisa,New Mexico,99525,1,0,1,1,4,4,4,3
+344,Justin's Bar,(407)509-0014x13087,nelsonemily@gmail.com,3597 Joseph Freeway,Port Michaelfurt,Arkansas,85369,1,1,0,0,1,5,2,4
+345,Mary's Bar,001-044-808-5676x4017,kennedysteven@yahoo.com,45878 Owen Unions,West Jeffrey,Washington,1562,1,0,1,1,1,2,1,1
+346,Cynthia's Bar,+1-104-293-5539x295,craig84@gmail.com,937 David Ports Apt. 406,North Larryhaven,Michigan,29849,1,0,0,0,5,5,1,1
+347,Dana's Bar,(461)259-8347,aconner@clay.com,73659 Perez Knoll,Martinfurt,Minnesota,75912,0,1,1,0,1,2,2,3
+348,Maria's Bar,621.433.0600x96953,heatherevans@gmail.com,9132 Weber Underpass Suite 386,Wilsonborough,Connecticut,68121,1,1,0,0,3,2,3,2
+349,Douglas's Bar,010.430.3307x02078,gjackson@anderson.com,671 Brenda Orchard,Melindaview,Alaska,64997,1,1,0,0,3,3,2,4
+350,Alan's Bar,403-508-8857x78867,vanessatorres@hotmail.com,690 Foster Stravenue Apt. 511,East Andrea,Maryland,39486,1,0,0,0,1,2,1,2
+351,Margaret's Bar,608-142-1191,natashagutierrez@hotmail.com,693 Andrea Ramp,New Jessicatown,Kansas,93678,0,0,0,0,2,4,1,2
+352,Jennifer's Bar,843-550-0831x308,hroman@hotmail.com,237 Johnston Oval,Jamietown,Missouri,81939,1,0,0,1,4,3,2,2
+353,David's Bar,751.143.9566x655,crystalmartin@yahoo.com,189 Christopher Mill Suite 201,Kennedychester,Missouri,28727,1,0,0,0,1,4,3,1
+354,Hunter's Bar,8327558798,dakota74@yahoo.com,22844 Michael Plaza Apt. 373,North Stephenburgh,Iowa,74365,0,0,1,1,2,2,4,5
+355,Heather's Bar,(788)391-7488,jameshogan@gmail.com,51305 Kathleen Cape,New Melodyfurt,New Mexico,94185,1,1,0,0,1,4,5,4
+356,Cheryl's Bar,+1-340-871-4576x90365,ernestrobinson@anthony-peterson.info,020 Aguilar Port Suite 516,Higginsstad,Nebraska,51689,0,1,0,0,5,4,4,1
+357,Erik's Bar,465-722-6948x237,mooreolivia@hernandez.com,43435 Richardson Plain Apt. 078,New Jared,Wisconsin,63857,0,1,1,1,3,5,1,2
+358,Michael's Bar,396.337.1229x5259,reginadavis@hotmail.com,33847 James Glen,Thompsonport,Hawaii,15970,0,1,1,0,2,3,4,1
+359,Tammy's Bar,(178)010-6189x91060,nwilliams@villarreal.net,007 Pamela Mews Suite 664,West Johnchester,Kansas,4718,0,1,0,0,5,1,1,2
+360,Eric's Bar,(342)271-6880,smercer@yahoo.com,570 Brown Lakes,Lake Williamberg,Alaska,32354,1,1,0,1,3,1,2,4
+361,Abigail's Bar,947-169-3132x3639,robertpatel@hotmail.com,3007 Rush Lakes,Moorechester,Alaska,86042,1,0,0,0,1,5,5,1
+362,Kyle's Bar,552.494.1427x6898,pwade@gmail.com,6804 Beth Squares Suite 978,Ayersside,Florida,8758,1,0,0,0,4,5,2,4
+363,Cole's Bar,+1-298-906-9154x83451,jonathanbrooks@odonnell-case.biz,385 Christina Lights Apt. 880,Williamston,Tennessee,75914,1,1,1,0,3,2,2,5
+364,Stephanie's Bar,655-557-9261,mossamber@evans.com,872 Short Pine Suite 356,Terrellland,Oklahoma,9439,0,0,0,1,5,4,1,3
+365,Melanie's Bar,(926)981-6130x21811,joshuagarcia@williams.com,422 Coffey Springs Suite 349,West Lorimouth,West Virginia,16781,1,0,0,1,4,2,1,1
+366,John's Bar,001-737-233-5352,jose51@yahoo.com,1562 Nguyen Ville,East Daisyfurt,Florida,37144,0,0,1,0,4,3,3,5
+367,Austin's Bar,962.452.1891,fhorton@bradshaw-white.com,58958 Foster Fall,New Jonathan,Delaware,34071,0,1,1,1,3,4,4,5
+368,Nicole's Bar,+1-410-553-9610,uwatson@hotmail.com,977 Andrea Freeway,Traciborough,Rhode Island,73817,1,0,0,1,4,1,1,2
+369,Makayla's Bar,653.417.4644x6395,jacknelson@henry.com,804 Weaver Manor Apt. 603,New David,Michigan,3411,0,1,1,1,2,2,4,1
+370,Tamara's Bar,001-865-085-2926,michael73@lee.com,6669 Allen Manors Apt. 543,North Johnville,Delaware,22968,1,0,1,0,2,5,5,4
+371,Anthony's Bar,719.806.3035x05990,ublackwell@gmail.com,14728 Renee Points Apt. 546,Curtistown,New Jersey,99164,0,0,0,0,3,3,3,2
+372,Jason's Bar,001-078-043-7390x68523,lauren18@vasquez-rodriguez.com,0582 Gregory Point Suite 147,West Kennethshire,South Dakota,7122,1,0,0,0,3,2,4,1
+373,Frances's Bar,(369)412-3762x74176,anthonytorres@gmail.com,46921 Holly Grove Suite 037,South Breanna,Texas,74885,0,0,1,1,5,3,5,4
+374,Lindsey's Bar,841.756.4651,jsparks@jordan-morrison.com,864 Sims Corner,North Michaelborough,Nebraska,63369,1,1,1,1,3,4,5,1
+375,Nicole's Bar,6950386129,johnsondaryl@wilson.com,7555 Erin Passage,East Matthew,Connecticut,24859,1,1,1,1,5,4,4,4
+376,Jennifer's Bar,(821)329-2944,dwest@gmail.com,6698 Ryan Circles,Karenview,Arizona,20170,1,1,1,1,1,3,4,5
+377,Travis's Bar,+1-814-153-3138x878,phillipsshawn@hotmail.com,15299 Hawkins Islands Apt. 067,Parkerberg,California,35054,1,1,0,0,1,5,2,4
+378,Russell's Bar,+1-022-735-8623,michael84@lee.net,682 Richard Dale,New Melanie,Ohio,25002,1,0,1,0,5,2,1,1
+379,Kenneth's Bar,(695)041-4741x97496,psimpson@yahoo.com,86277 Hill Estate Suite 384,West James,West Virginia,46929,1,1,1,1,4,1,1,2
+380,John's Bar,001-928-235-9051x5100,lsimmons@yahoo.com,6930 Johnny Keys,Morrisport,Oklahoma,62810,0,1,0,1,1,4,2,5
+381,Sean's Bar,6906732556,kylehayes@dodson-higgins.com,9569 Tonya Shores,Jillianfurt,Indiana,32336,0,0,1,1,5,3,2,3
+382,Jon's Bar,327.346.0916x3800,jasonsmith@hotmail.com,680 Greene Street,South Christopherville,New Jersey,56585,1,0,1,0,5,4,5,1
+383,Ann's Bar,(662)585-1031,debrapratt@yahoo.com,214 David Drive,West Lauraview,Mississippi,34144,0,1,0,0,2,2,2,3
+384,Jason's Bar,717-248-1338,rogerskathryn@torres-jones.com,302 Laura Wall,East Kellyhaven,Louisiana,11764,1,0,0,1,4,3,1,3
+385,Alicia's Bar,+1-376-034-4922x0514,alexander89@mayer.com,0198 Adam Vista Apt. 828,Lake Sherrymouth,Minnesota,73821,1,0,0,1,5,2,4,1
+386,Anthony's Bar,923.650.0522x362,warren69@yahoo.com,229 Adrian Spring Apt. 768,East Ginaport,Maryland,12995,0,1,0,0,2,2,3,1
+387,Elizabeth's Bar,082-555-4417x6913,rsolis@yahoo.com,205 Salazar Springs Suite 310,New Taylor,Massachusetts,15766,0,0,1,1,5,1,1,2
+388,Zachary's Bar,527-171-8457,davidmcknight@norman.com,17715 Young Brook Suite 836,Davidside,Nebraska,74612,0,0,0,0,5,4,3,3
+389,Steven's Bar,559.625.7403x05813,jgarcia@yahoo.com,79047 Gregory Pass Suite 411,Nguyenbury,North Carolina,78619,1,0,0,0,1,5,3,3
+390,Annette's Bar,001-239-392-7652x796,marquezbryan@cobb.org,921 Ponce Branch Suite 887,Woodburgh,Nevada,91125,0,0,0,0,2,4,4,2
+391,William's Bar,745-611-7050x64855,alexandrasharp@cain.org,54575 Jennifer Ridges,Caseburgh,Arizona,741,0,0,0,0,5,2,5,5
+392,Eugene's Bar,001-909-505-5171x005,jennifer39@hotmail.com,702 Holmes Drive Suite 921,Williamsview,Mississippi,75436,1,1,1,1,2,3,3,5
+393,Mallory's Bar,(423)529-6160x47305,sarah03@lee.info,890 Yates Mountains Suite 421,Dannyhaven,Connecticut,9765,0,0,1,0,2,3,4,5
+394,Gregory's Bar,(074)368-9357x6879,jeffrey15@gmail.com,8289 Hess Land Suite 082,West Samantha,Delaware,94608,1,0,0,1,4,3,4,3
+395,Breanna's Bar,001-598-713-4412,kirkeugene@gmail.com,122 Robertson Station,Lake Guyhaven,Nevada,72074,1,1,1,0,1,1,4,3
+396,Dawn's Bar,671-015-5604,maddenmargaret@yahoo.com,7411 Michael Mews Suite 331,North Stephanie,North Dakota,85175,1,0,1,0,3,2,3,5
+397,Melissa's Bar,113-880-6147x220,jenniferroberts@bailey-white.com,797 Page Ferry Suite 585,Port Jacob,Iowa,82837,0,1,0,0,1,1,4,1
+398,Elizabeth's Bar,001-484-167-3457,gfoster@grimes-callahan.org,45968 Nichole Ville,South Amber,Tennessee,89920,1,0,0,1,3,1,5,3
+399,David's Bar,458-251-4569,loganthomas@williams.org,9574 Berry Village Apt. 093,North Monica,North Dakota,47266,1,0,0,1,2,1,2,2
+400,Stephen's Bar,+1-986-160-1186x199,rgarcia@clark-smith.net,387 Jones Loaf,South Coreyborough,West Virginia,4064,1,0,1,1,2,1,1,3
+401,Theresa's Bar,001-254-922-4962x2477,yolanda25@hotmail.com,4382 Amy Cliffs Suite 298,East Suzanne,Nebraska,84718,1,0,1,1,1,5,5,1
+402,Larry's Bar,(828)167-5499x612,hgomez@howard-gray.org,7164 Rivera Land,North Jamie,Indiana,56865,0,1,1,1,4,1,5,2
+403,Courtney's Bar,+1-148-741-4608x5914,williamsalex@white-davis.info,8842 Sarah Walk,Perezport,Louisiana,45154,1,0,1,0,3,5,4,5
+404,Dawn's Bar,001-892-526-7192,alexistaylor@gmail.com,7054 Jason Alley Suite 459,Jonesbury,Wisconsin,54386,0,1,1,0,3,2,5,3
+405,Melanie's Bar,+1-846-274-2963,joshuawright@kelly-rodriguez.biz,4607 Phillips Camp,Teresamouth,Pennsylvania,49079,1,0,0,0,3,1,4,4
+406,Amber's Bar,001-429-631-5898x91202,michael30@garcia-huber.com,9932 Lisa Key,Carterview,Delaware,28155,0,1,0,1,3,5,4,5
+407,Arthur's Bar,001-623-456-4037x72532,averycharles@gmail.com,009 Michael Keys Suite 400,Williamsville,Maryland,42522,0,0,1,0,1,1,1,2
+408,Matthew's Bar,001-475-268-2221x8826,daniellawrence@reed.com,4218 Giles Spur,Lake Kimberlytown,Tennessee,73667,1,0,1,1,1,3,5,4
+409,Megan's Bar,001-312-802-7454,derekneal@hotmail.com,6011 Ryan Lodge Suite 768,Brockborough,Missouri,76754,1,1,0,1,1,2,5,5
+410,Jacob's Bar,001-913-851-7823x050,rachel26@hotmail.com,69752 King Course,Thomasshire,Alaska,12803,0,1,0,1,4,5,5,1
+411,Dustin's Bar,001-466-154-6975,joneslisa@allen.biz,259 Brandon Station Apt. 625,North Christian,Colorado,90073,1,1,0,0,1,5,1,2
+412,Ana's Bar,001-244-623-7391x48775,aray@yahoo.com,393 Nina Junction,Port Zacharyport,New Jersey,45944,1,1,0,0,3,4,5,4
+413,Charles's Bar,511-182-7542x71062,brownalejandro@nelson-lara.com,2308 Dana Light,North Garyshire,Oklahoma,13792,0,1,0,1,4,3,2,3
+414,Rachel's Bar,561-694-5417,benjamin65@hotmail.com,391 Darren Expressway,Port Davidview,Utah,49875,0,1,1,0,1,1,2,4
+415,Mark's Bar,508-051-4722x336,ygonzalez@hotmail.com,054 Hopkins Curve,North Jessica,Mississippi,96959,0,0,1,0,3,5,4,2
+416,Eric's Bar,865.926.1093x74982,reynoldscory@pearson.net,86119 Wilkinson Plain Suite 200,Donaldberg,Mississippi,30046,0,0,1,1,3,1,2,2
+417,Richard's Bar,637.676.2081x8051,christophercoleman@fisher-taylor.biz,9659 Higgins Views Suite 978,Lake Carol,North Dakota,31569,1,0,0,0,1,3,2,4
+418,Joseph's Bar,697-460-4139,galvarado@rodriguez-king.net,81580 Christopher Route Suite 649,South Brittanyburgh,Hawaii,19978,1,0,0,0,2,3,1,2
+419,Donald's Bar,184-726-9081x453,schultzhelen@miller.biz,644 Ellis Squares,Rodneymouth,North Carolina,96174,0,1,0,1,5,5,1,2
+420,Barry's Bar,029-837-2781,brandon98@yahoo.com,900 Hall Shore Apt. 008,Joseberg,Montana,3334,1,0,0,1,2,3,3,2
+421,Mary's Bar,480-022-8140,qmartinez@gmail.com,27119 Elijah Drive,East Tracymouth,Virginia,7588,1,1,1,0,5,3,2,4
+422,Janice's Bar,3042465590,helen76@yahoo.com,344 Andrew Fork Apt. 846,Leachfurt,West Virginia,10107,0,1,0,0,2,2,5,1
+423,Audrey's Bar,710-313-7462,rodriguezderek@peters.com,38034 Charles Field Suite 590,North Julieport,Iowa,85081,1,0,1,1,5,5,4,2
+424,Randy's Bar,500-469-2585x1773,mooreadam@hernandez.com,971 Martinez Trail,New Ricardofort,New Mexico,22795,1,0,0,1,2,2,3,2
+425,Amy's Bar,623.190.7245x0525,zmendez@cowan-roberts.com,3534 Wilson Way Suite 321,Lake Kimberlyshire,Louisiana,49341,1,0,1,0,2,2,2,3
+426,Christopher's Bar,+1-155-382-9913,michael47@hotmail.com,254 White Extensions,Reyesland,Illinois,39921,1,1,1,1,2,4,5,2
+427,Jonathan's Bar,5042918895,laura17@gmail.com,88128 Mark Hills Apt. 957,South Davidview,Maryland,59199,1,0,1,0,5,1,4,3
+428,Steve's Bar,811-686-5506x74178,justin07@robinson.org,021 Regina Dale,Port Julie,Vermont,21320,1,1,0,0,4,1,4,5
+429,Danielle's Bar,(889)473-2086x1505,hartmancynthia@bradley-casey.com,77821 Robert Shore Apt. 050,Hardingborough,Ohio,61215,0,1,1,1,3,3,3,4
+430,Michael's Bar,+1-639-798-0922x11182,julian69@johnson.info,84024 Lee Views Apt. 140,South Davidborough,Indiana,39127,1,1,1,0,1,3,4,3
+431,Toni's Bar,001-610-660-3589x58120,jonathankim@hotmail.com,3357 Newman Groves,New Robert,Mississippi,70902,0,1,0,0,3,2,5,3
+432,Pamela's Bar,556.560.7183,fmarshall@holland-beltran.com,8256 Blake Dale Apt. 345,South Jasmineburgh,Arizona,31146,1,1,1,0,2,2,5,5
+433,James's Bar,001-248-208-4341x83682,yjones@gmail.com,3746 Frederick Alley Suite 637,North Sarastad,Maine,38395,1,0,0,0,5,3,2,4
+434,Robert's Bar,4253559311,bruce38@gilbert-carpenter.org,2671 Gibson Path,South Courtneyhaven,Mississippi,73121,1,0,0,1,2,4,2,1
+435,Jose's Bar,(006)111-8915,michealhunt@bryant.com,3260 Samantha Trail,West Drewshire,Maine,39512,1,1,1,0,5,5,4,2
+436,Caitlin's Bar,+1-962-966-0967x3186,brookemunoz@gutierrez-kemp.org,273 Melissa Harbor Suite 641,Paulside,Colorado,85094,1,0,0,1,2,4,3,2
+437,Alec's Bar,265.688.7577,briandavis@pearson-williams.net,7558 Hayes Springs,East Jaredton,Nevada,67202,0,1,0,0,4,3,2,2
+438,Madeline's Bar,(089)863-1802,nicholsabigail@house.com,808 Burnett Gateway Suite 611,South Marthaborough,Massachusetts,17725,1,0,0,1,3,5,5,1
+439,Lori's Bar,+1-661-861-7953x258,uwilliams@gonzalez-kim.biz,8615 Roach Mills Apt. 741,Clarkhaven,Connecticut,89771,1,1,1,0,4,1,3,3
+440,Brandy's Bar,+1-607-549-0656x12929,lpage@hotmail.com,18312 Ortiz Plains Suite 691,Millerburgh,Montana,41638,0,1,1,1,1,1,3,3
+441,Aaron's Bar,326.782.2244,cody36@rogers.com,98765 Robert Hill,Lake Sherry,Montana,39111,1,1,0,0,1,2,3,4
+442,Michael's Bar,655-708-8550x39855,josephferguson@herrera-james.com,81875 Victor Fork Suite 860,Port Michelle,Arizona,77704,0,0,1,0,2,3,5,4
+443,Madison's Bar,(740)194-4229x772,jimenezcynthia@carson-acosta.com,761 Kristin Flats,Lake Steven,Nebraska,37022,1,1,0,0,2,1,1,2
+444,Christopher's Bar,6010226813,jcoleman@thompson.com,20402 Miller Street,Port Luis,South Carolina,90586,0,1,1,1,5,5,3,2
+445,Christopher's Bar,001-240-246-2332x79029,kroberts@gmail.com,15180 Morales Gateway,Glennbury,Michigan,44820,1,0,1,0,1,2,2,1
+446,Glenn's Bar,(413)060-9731x755,angelawade@gmail.com,6201 Jeffrey Springs Suite 458,Gilberttown,Alabama,21727,0,0,1,0,2,5,2,2
+447,Dennis's Bar,001-273-524-5449,april50@hotmail.com,4867 Brenda Grove,North Carolynmouth,New Hampshire,95455,1,1,0,1,2,4,2,3
+448,Jeremy's Bar,(280)888-5491x279,danieljones@yahoo.com,56316 Brian Trail Suite 327,South Ronald,Virginia,87064,1,0,1,0,2,3,4,3
+449,Susan's Bar,405-177-7723,meaganbradshaw@brady.net,622 Kendra Estate,Schneiderfurt,Kansas,81142,0,0,1,0,4,5,4,4
+450,Michael's Bar,(621)233-5909x69417,batesmichelle@yahoo.com,9203 Smith Glens,Englishstad,Alabama,33525,0,0,1,0,4,4,3,2
+451,Jackson's Bar,001-397-974-9090x799,slevine@gmail.com,1121 Jennifer Pine Suite 719,Levimouth,New York,60915,1,0,0,0,1,4,4,4
+452,Dennis's Bar,113.563.6605x46602,stanleychristopher@gmail.com,72978 Sarah Ranch Apt. 668,Port Anthony,Wyoming,50127,1,1,1,0,4,4,1,2
+453,Rebecca's Bar,784-816-6195x6773,bjones@morgan-garcia.info,6712 Wade Square,Smithbury,Kentucky,49586,1,0,1,0,1,4,4,2
+454,Zachary's Bar,198.605.5449,cholmes@yahoo.com,47868 Pineda Valleys,Perezburgh,Missouri,64177,1,1,0,0,2,5,4,2
+455,Erin's Bar,+1-784-047-7752x545,tannermiranda@gmail.com,5078 Kimberly Creek,Duncanton,South Carolina,81580,0,0,1,0,1,2,3,4
+456,David's Bar,4920052295,lawrencejordan@yahoo.com,73175 Lopez Bypass,Ortizstad,Wisconsin,19575,1,1,0,1,4,4,5,5
+457,Christina's Bar,+1-232-748-7577x092,okane@lopez.info,751 Ashley Village,Patrickmouth,Tennessee,57796,0,1,0,1,3,2,1,4
+458,Mario's Bar,001-086-488-3517x521,marshjessica@yahoo.com,8772 Taylor Walks,Lake Bethbury,New Hampshire,74186,1,1,0,0,1,2,3,3
+459,Ann's Bar,+1-685-249-6169,josephnguyen@gmail.com,0049 Austin Plaza Apt. 671,Lake Randy,Wisconsin,72066,1,0,0,0,4,1,5,2
+460,Ryan's Bar,(585)609-7012,kristin60@gmail.com,65075 Brittany Lodge,Christineshire,New Jersey,87059,1,0,0,0,4,3,2,3
+461,Tracy's Bar,(603)044-0010,fordjamie@yahoo.com,968 Wendy Light,Lake Tara,Oklahoma,34980,0,1,0,1,3,4,5,2
+462,Carrie's Bar,140-224-1453,guzmankaren@hotmail.com,2616 Wilson Mission,Galvanhaven,Indiana,37539,0,0,0,1,2,5,4,2
+463,Gregory's Bar,001-241-728-1709x3268,hendersonmargaret@yahoo.com,568 Joseph Trail Suite 254,Bryanview,Montana,52630,1,1,1,1,5,3,5,3
+464,Cindy's Bar,136-910-9516x755,penaanthony@smith-reed.com,67240 Clements Squares,South Ashleytown,South Dakota,51819,0,1,1,0,4,2,2,4
+465,Autumn's Bar,001-527-400-7210,bpatterson@flynn-duncan.net,96055 Jason Pines Suite 005,Port Pamela,South Dakota,34402,1,0,0,0,2,5,4,3
+466,Dennis's Bar,810-504-5914x744,gibsonpaul@stevenson-rocha.com,4258 Raymond Junctions Suite 720,New Nancy,Rhode Island,32440,1,0,1,1,1,4,4,5
+467,Melissa's Bar,+1-262-207-0563,robert34@hotmail.com,37311 Galloway Road Suite 153,Ronaldchester,California,53424,0,1,1,0,1,2,1,5
+468,Brittney's Bar,001-322-068-1764x690,davismartin@hotmail.com,31421 Melinda Center,Lopezstad,Georgia,51414,0,0,0,0,3,3,3,5
+469,Patrick's Bar,+1-797-239-5053x607,kaylawhite@barnes-marsh.com,6867 Blackburn Terrace Suite 482,Savageburgh,Colorado,24424,0,0,0,0,1,5,1,1
+470,Jean's Bar,+1-920-547-5817x61665,wgonzales@yahoo.com,2068 Munoz Brook,Andreaport,Arizona,11980,0,1,1,1,5,4,5,2
+471,Jack's Bar,001-437-206-5684,wilsonjocelyn@browning.net,009 Kerry Lake,Spearsport,West Virginia,203,1,0,0,1,4,5,4,2
+472,Jennifer's Bar,466-137-5855,chelsea48@hotmail.com,9194 Butler Stravenue Suite 494,West Natashaview,Texas,61311,1,1,0,0,4,2,4,2
+473,Tracy's Bar,206-892-4411x7919,ejohnson@gmail.com,8559 Jamie Pine,Port Brandonchester,Rhode Island,10831,0,1,0,0,4,5,2,2
+474,Aaron's Bar,891.110.4036x78184,daybilly@hodges-crawford.com,4360 Blevins Inlet Suite 265,Theresaberg,Vermont,79199,1,1,0,1,1,4,1,2
+475,Linda's Bar,(838)462-3133x66721,michael78@clark.org,25463 Jonathan Shoal,New Davidchester,Vermont,31991,0,1,1,0,5,4,2,2
+476,Peter's Bar,(849)503-2292,stephencarter@gmail.com,922 Sara Viaduct,North Mark,Michigan,67712,0,1,1,0,4,2,5,1
+477,Tara's Bar,(951)643-8078x4354,wdixon@yahoo.com,0086 Kathleen Meadow Apt. 747,Smithchester,Louisiana,10194,0,1,0,0,5,5,1,3
+478,Randall's Bar,9663252817,fperkins@lucas-gonzales.com,4036 Robert Key Suite 390,Perrychester,Kentucky,199,1,0,0,1,1,3,4,2
+479,Joseph's Bar,(532)687-0287,tgonzalez@yahoo.com,575 Joshua Light,East Jamesfort,Ohio,76977,1,0,0,0,4,1,4,3
+480,Joel's Bar,458.756.5973x1778,tiffany07@gill-alexander.com,02108 Henry Ford Apt. 741,Stevensberg,Arizona,54027,0,0,1,0,3,3,2,5
+481,Timothy's Bar,934-879-6316x02349,moorebrett@miller.info,164 Cameron Mall,Port Diamondside,Virginia,11215,0,0,0,0,1,4,3,2
+482,Robert's Bar,001-838-276-2443x7761,sarah00@gmail.com,11961 Erin Ville,South Susan,Kentucky,14885,0,0,0,1,2,3,5,5
+483,Richard's Bar,001-359-198-0774x9551,graypaula@gmail.com,04240 Marc Club,Aprilfurt,Tennessee,3348,1,0,1,0,5,4,1,2
+484,Melissa's Bar,488-935-3170x8408,jenniferkim@gmail.com,6683 Jones Common Apt. 751,Combsmouth,Alabama,31618,0,0,0,0,1,5,2,1
+485,Frank's Bar,(610)409-8735,jenniferthompson@haley.info,368 Fernandez Cliff,West Jerryview,Washington,32011,1,0,0,1,3,3,2,3
+486,Traci's Bar,584.785.5905x61277,marytucker@yahoo.com,21046 Salas Way Suite 091,Lake Tiffanyside,Massachusetts,58479,0,0,1,1,5,4,3,5
+487,David's Bar,969-353-4877x95687,farmergary@hotmail.com,4100 Jose Spurs,East Dylanfort,West Virginia,95563,0,0,0,1,5,4,5,1
+488,Carrie's Bar,001-833-789-4265x6057,martinjones@jackson.com,0900 Phillip Walk,Perezside,Alabama,19635,1,0,1,1,5,3,2,5
+489,Jason's Bar,102.324.2809x231,emily71@hotmail.com,93832 Gallagher Plaza,North Alexander,Nevada,59526,1,0,0,0,2,4,1,5
+490,David's Bar,001-734-260-1395x2555,william40@gmail.com,8257 Jeremy Mews Apt. 299,Lake Christymouth,North Dakota,5383,1,0,1,0,5,3,5,4
+491,Roberto's Bar,698-369-1459,kaitlinschmitt@hotmail.com,67756 Gibson Square,East Samuel,Nebraska,8057,1,0,0,1,4,1,2,1
+492,Debbie's Bar,001-272-994-5689,edwin87@anderson.com,1990 Nancy Circle,Leachfort,Iowa,86193,0,0,1,0,5,5,3,2
+493,Christina's Bar,001-185-906-1915,smithashlee@hotmail.com,6542 Montoya Court Apt. 099,Lake Biancaborough,Alabama,44693,1,0,1,0,2,2,5,4
+494,Donald's Bar,(800)140-4443x8551,contreraskaitlyn@rivera-foster.org,80174 Webb Trace Suite 450,North Stevenhaven,Virginia,69696,0,1,0,1,4,4,4,3
+495,Tara's Bar,(905)727-4020,sonia67@thompson.com,150 Watson Highway,Parkmouth,Indiana,25385,0,1,0,1,3,5,5,5
+496,Marc's Bar,001-258-513-2098x8248,robertlittle@wiggins.info,76077 Wright Tunnel Suite 587,Sanchezchester,Indiana,95189,0,1,0,1,3,3,2,3
+497,Andrew's Bar,001-235-790-3796x9559,duane58@yahoo.com,636 Stewart Overpass Suite 998,Angelaborough,Oklahoma,98958,1,1,1,0,1,3,2,3
+498,Crystal's Bar,001-543-279-8719x39019,danaperez@gmail.com,305 Ronald Branch Apt. 779,Jerryberg,Tennessee,8378,1,1,1,0,3,3,2,3
+499,Alexis's Bar,001-308-751-9852x3183,iobrien@riley.com,21777 Scott Neck Apt. 988,Crystalborough,Iowa,25250,1,0,0,0,5,1,4,5
+500,Christopher's Bar,+1-665-826-0668x853,michael73@dean.org,76282 Kirk Motorway Apt. 908,Haysside,Louisiana,21661,0,0,0,0,5,1,4,5
