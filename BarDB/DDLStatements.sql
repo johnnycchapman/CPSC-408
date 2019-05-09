@@ -70,5 +70,5 @@ create table bar_ratings
 
 -- Index for Bar Ratings
 create index bar_ratings_index
-	on bar_ratings (bar_id);
+  on bar_ratings (bar_id);
 
