@@ -9,6 +9,10 @@ A relational database that stores information about local bars in a console appl
 * JDBC
 * MySQL
 
+### Software used
+* IntelliJ
+* DataGrip
+
 ### Setup
 * Download the mysql-connector-java-5.1.15.jar file and add as a library
 * For this I used the 1.8.0 JDK
