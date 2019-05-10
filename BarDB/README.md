@@ -1,6 +1,6 @@
 # Bar Hub
 
-## Johnny Chapman and Samir Kamnani
+## By: Johnny Chapman and Samir Kamnani
 
 ### Description
 A relational database that stores information about local bars in a console application
