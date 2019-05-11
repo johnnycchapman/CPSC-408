@@ -43,8 +43,8 @@ public class Main
                 displayMenu();
             }
             else if (userInput.equals("bigoh")) {
-                System.out.println("f(n) = O(g(n)) when there exist constants c > 0 and n0 > 0 such that\n" +
-                        "f(n) ≤ c * g(n), for all n ≥ n0");
+                System.out.println("For two functions f(n) and  g(n), f(n) = O(g(n)) when there exist \n" +
+                        "constants c > 0 and n0 > 0 such that f(n) ≤ c * g(n), for all n ≥ n0");
             }
             else if (userInput.equals("rene?")) {
                 System.out.println("It's on the syllabus!");
