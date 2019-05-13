@@ -14,8 +14,8 @@ import java.util.*;
 public class Main
 {
     public static String url = "jdbc:mysql://35.233.129.12:3306/barsdb";
-    public static String user = "johnnychapman";
-    public static String pass = "Turkeyboy!";
+    public static String user = "username";
+    public static String pass = "password";
 
     public static void main(String args[]) {
         Scanner s = new Scanner(System.in);
