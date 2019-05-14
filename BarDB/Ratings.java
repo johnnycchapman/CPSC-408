@@ -29,11 +29,11 @@ public class Ratings {
 
     public static void display() {
         int maxLen = 20;
-        System.out.println("\nBarName" + String.format("%1$" + (maxLen - 7) + "s| ", "") + "Overall Rating" + String.format("%1$" + (maxLen - 14) +
+        System.out.println("\n-------------------------------------------------------------------------------------------------------------");
+        System.out.println("BarName" + String.format("%1$" + (maxLen - 7) + "s| ", "") + "Overall Rating" + String.format("%1$" + (maxLen - 14) +
                 "s| ", "") + "Food Rating" + String.format("%1$" + (maxLen - 11) + "s| ", "") + "Beer Rating" + String.format("%1$" + 9 +
                 "s| ", "") + "Cocktail Rating" + String.format("%1$" + 5 + "s| ", ""));
         System.out.println("-------------------------------------------------------------------------------------------------------------");
-
         try
         {
             Class.forName("com.mysql.jdbc.Driver");
