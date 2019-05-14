@@ -52,11 +52,11 @@ public class Info {
         int maxLen = 25;
 
         // print headers
-        System.out.println("\nBarID  " + String.format("%1$" + (maxLen - 7) + "s| ", "   ") + "BarName" + String.format("%1$" + (maxLen - 7) + "s| ", "   ") +
+        System.out.println("\n-------------------------------------------------------------------------------------------------------------------------------------------------------------");
+        System.out.println("BarID  " + String.format("%1$" + (maxLen - 7) + "s| ", "   ") + "BarName" + String.format("%1$" + (maxLen - 7) + "s| ", "   ") +
                 "Address" + String.format("%1$" + (maxLen - 7) + "s| ", "   ") + "City   " + String.format("%1$" + (maxLen - 7) + "s| ", "   ") +
                 "State  " + String.format("%1$" + (maxLen - 7) + "s| ", "   ") + "ZIP" + String.format("%1$" + (maxLen - 7) + "s| ", "   "));
         System.out.println("-------------------------------------------------------------------------------------------------------------------------------------------------------------");
-
         try
         {
             Class.forName("com.mysql.jdbc.Driver");
