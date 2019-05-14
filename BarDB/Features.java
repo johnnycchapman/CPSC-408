@@ -19,11 +19,12 @@ public class Features {
 
     public static void display() {
         int maxLen = 20;
-        System.out.println("\nBarName" + String.format("%1$" + (maxLen - 7) + "s| ", "") + "Has DJ" + String.format("%1$" + (maxLen - 6) +
+        System.out.println("\n-------------------------------------------------------------------------------------------------------------");
+        System.out.println("BarName" + String.format("%1$" + (maxLen - 7) + "s| ", "") + "Has DJ" + String.format("%1$" + (maxLen - 6) +
                 "s| ", "") + "Has Food" + String.format("%1$" + (maxLen - 8) + "s| ", "") + "Has Outdoor Area " + String.format("%1$" + 3 +
                 "s| ", "") + "Has Beer On Tap" + String.format("%1$" + 5 + "s| ", ""));
         System.out.println("-------------------------------------------------------------------------------------------------------------");
-
+        
         try
         {
             Class.forName("com.mysql.jdbc.Driver");
