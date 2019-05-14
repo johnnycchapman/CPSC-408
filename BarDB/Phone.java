@@ -23,7 +23,8 @@ class Phone
 
     public static void display() {
         int maxLen = 20;
-        System.out.println("\nBar ID  " + String.format("%1$" + (maxLen - 8) + "s| ", "   ") +
+        System.out.println("\n-----------------------------------------------------------------");
+        System.out.println("Bar ID  " + String.format("%1$" + (maxLen - 8) + "s| ", "   ") +
                 "Bar Name  " + String.format("%1$" + (maxLen - 10) + "s| ", "   ") + "Phone" + String.format("%1$" + (maxLen - 5) + "s| ", "   "));
         System.out.println("-----------------------------------------------------------------");
 
