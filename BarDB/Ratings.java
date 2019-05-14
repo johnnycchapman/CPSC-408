@@ -34,6 +34,7 @@ public class Ratings {
                 "s| ", "") + "Food Rating" + String.format("%1$" + (maxLen - 11) + "s| ", "") + "Beer Rating" + String.format("%1$" + 9 +
                 "s| ", "") + "Cocktail Rating" + String.format("%1$" + 5 + "s| ", ""));
         System.out.println("-------------------------------------------------------------------------------------------------------------");
+        
         try
         {
             Class.forName("com.mysql.jdbc.Driver");
