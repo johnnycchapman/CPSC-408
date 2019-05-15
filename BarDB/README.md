@@ -16,6 +16,7 @@ A relational database that stores information about local bars in a console appl
 ### Setup
 * Download the mysql-connector-java-5.1.15.jar file and add as a library
 * Download the 1.8.0 JDK and add it as a library
+* The TableData.xlsx has all the data from each table 
 
 ### Features
 1. Print/display records	from	your	database/tables.
